@@ -948,6 +948,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MDL_Pag 19-20
       objectReference: {fileID: 0}
+    - target: {fileID: 7073434975054128302, guid: 12be61341fac06f479393c1050c90971, type: 3}
+      propertyPath: m_Name
+      value: EL_Escape_Lot
+      objectReference: {fileID: 0}
     - target: {fileID: 8296661705085748522, guid: 12be61341fac06f479393c1050c90971, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
