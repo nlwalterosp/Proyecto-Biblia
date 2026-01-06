@@ -294,12 +294,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3643014372365738977, guid: c93732ad69f05c44aae7de71b4718312, type: 3}
+      propertyPath: 'elementos.Array.data[1]'
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 7736191961973827394, guid: c93732ad69f05c44aae7de71b4718312, type: 3}
       propertyPath: m_Name
       value: Escenario_5_6_Prefab
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 3770270772633640873, guid: c93732ad69f05c44aae7de71b4718312, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c93732ad69f05c44aae7de71b4718312, type: 3}
