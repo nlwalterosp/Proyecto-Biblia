@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 349741905733639460}
   - component: {fileID: 2639912345267919701}
   - component: {fileID: 7304179089764714487}
+  - component: {fileID: 4231363836017975908}
   m_Layer: 0
   m_Name: MDL_Pasto_Plano_7
   m_TagString: Untagged
@@ -90,6 +91,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &4231363836017975908
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 429851276793715147}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &482444756970249072
 GameObject:
   m_ObjectHideFlags: 0
@@ -156,6 +179,7 @@ GameObject:
   - component: {fileID: 3975590634356354126}
   - component: {fileID: 8975979540007973609}
   - component: {fileID: 3782823844783757675}
+  - component: {fileID: 5650506451438878485}
   m_Layer: 0
   m_Name: MDL_Pasto_6
   m_TagString: Untagged
@@ -235,6 +259,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &5650506451438878485
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 549940107762865041}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &576061786409368110
 GameObject:
   m_ObjectHideFlags: 0
@@ -246,6 +292,7 @@ GameObject:
   - component: {fileID: 6462971471816850855}
   - component: {fileID: 1321786243995676132}
   - component: {fileID: 848978383462029954}
+  - component: {fileID: 3284039956480755155}
   m_Layer: 0
   m_Name: MDL_Pasto_Plano_20
   m_TagString: Untagged
@@ -325,6 +372,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &3284039956480755155
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 576061786409368110}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &864909260622396096
 GameObject:
   m_ObjectHideFlags: 0
@@ -336,6 +405,7 @@ GameObject:
   - component: {fileID: 3139113266070582559}
   - component: {fileID: 4859683947705559420}
   - component: {fileID: 8046015557121960081}
+  - component: {fileID: 3149222604675576195}
   m_Layer: 0
   m_Name: MDL_Flor_1
   m_TagString: Untagged
@@ -415,6 +485,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &3149222604675576195
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 864909260622396096}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &955888977273138325
 GameObject:
   m_ObjectHideFlags: 0
@@ -426,6 +518,7 @@ GameObject:
   - component: {fileID: 8612272351379475495}
   - component: {fileID: 2885561516060530422}
   - component: {fileID: 5768306063436054784}
+  - component: {fileID: 7316126537158806007}
   m_Layer: 0
   m_Name: MDL_Pasto_Plano_8
   m_TagString: Untagged
@@ -505,6 +598,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &7316126537158806007
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 955888977273138325}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1165251445921873997
 GameObject:
   m_ObjectHideFlags: 0
@@ -516,6 +631,7 @@ GameObject:
   - component: {fileID: 1953634301949220425}
   - component: {fileID: 2897459208588209910}
   - component: {fileID: 3872165042945006448}
+  - component: {fileID: 8207551501544724379}
   m_Layer: 0
   m_Name: MDL_Planta_3
   m_TagString: Untagged
@@ -595,6 +711,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &8207551501544724379
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1165251445921873997}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1218760948217721680
 GameObject:
   m_ObjectHideFlags: 0
@@ -606,6 +744,7 @@ GameObject:
   - component: {fileID: 6469524775189513242}
   - component: {fileID: 2969770527971564839}
   - component: {fileID: 7821397960349300071}
+  - component: {fileID: 6433675621855875396}
   m_Layer: 0
   m_Name: MDL_Arbusto
   m_TagString: Untagged
@@ -685,6 +824,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &6433675621855875396
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1218760948217721680}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c2305fc5fc7d0844db01d60f600670ae, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1260734634005363997
 GameObject:
   m_ObjectHideFlags: 0
@@ -696,6 +857,7 @@ GameObject:
   - component: {fileID: 8271508771153086073}
   - component: {fileID: 1176766881388608630}
   - component: {fileID: 5712549009849489751}
+  - component: {fileID: 5777578532405653810}
   m_Layer: 0
   m_Name: MDL_Pasto_2
   m_TagString: Untagged
@@ -775,6 +937,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &5777578532405653810
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1260734634005363997}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1577287750211732165
 GameObject:
   m_ObjectHideFlags: 0
@@ -786,6 +970,7 @@ GameObject:
   - component: {fileID: 5983380053941967704}
   - component: {fileID: 896550802679351632}
   - component: {fileID: 4255085892387531615}
+  - component: {fileID: 5677423900497756605}
   m_Layer: 0
   m_Name: MDL_Pasto_Plano_6
   m_TagString: Untagged
@@ -865,6 +1050,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &5677423900497756605
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1577287750211732165}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &2001973738236613914
 GameObject:
   m_ObjectHideFlags: 0
@@ -876,6 +1083,7 @@ GameObject:
   - component: {fileID: 8592953925187810023}
   - component: {fileID: 3956739545478244519}
   - component: {fileID: 9090704234336357636}
+  - component: {fileID: 4118691622713604456}
   m_Layer: 0
   m_Name: MDL_Pasto_Plano_4
   m_TagString: Untagged
@@ -955,6 +1163,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &4118691622713604456
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2001973738236613914}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &2005815227075969264
 GameObject:
   m_ObjectHideFlags: 0
@@ -966,6 +1196,7 @@ GameObject:
   - component: {fileID: 7908633445907502343}
   - component: {fileID: 1075840655533613519}
   - component: {fileID: 6097101427780343513}
+  - component: {fileID: 4061934305104306577}
   m_Layer: 0
   m_Name: MDL_Piedra_4
   m_TagString: Untagged
@@ -1045,6 +1276,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &4061934305104306577
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2005815227075969264}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &2491200210459587961
 GameObject:
   m_ObjectHideFlags: 0
@@ -1056,6 +1309,7 @@ GameObject:
   - component: {fileID: 424753367966259772}
   - component: {fileID: 7611152097844446735}
   - component: {fileID: 2592154967026268712}
+  - component: {fileID: 7601366658081499854}
   m_Layer: 0
   m_Name: MDL_Pasto_11
   m_TagString: Untagged
@@ -1135,6 +1389,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &7601366658081499854
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2491200210459587961}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &2574312982370391193
 GameObject:
   m_ObjectHideFlags: 0
@@ -1146,6 +1422,7 @@ GameObject:
   - component: {fileID: 3859670148495517467}
   - component: {fileID: 7099745874124614267}
   - component: {fileID: 6045796768988578872}
+  - component: {fileID: 5763422616711961548}
   m_Layer: 0
   m_Name: MDL_Pasto_Plano_9
   m_TagString: Untagged
@@ -1225,6 +1502,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &5763422616711961548
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2574312982370391193}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &2685973574487939785
 GameObject:
   m_ObjectHideFlags: 0
@@ -1236,6 +1535,7 @@ GameObject:
   - component: {fileID: 6090939483661887048}
   - component: {fileID: 4777205209505261704}
   - component: {fileID: 8861542008476827798}
+  - component: {fileID: 4722004286195605522}
   m_Layer: 0
   m_Name: MDL_Piedra_1
   m_TagString: Untagged
@@ -1315,6 +1615,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &4722004286195605522
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2685973574487939785}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &2717395702781989310
 GameObject:
   m_ObjectHideFlags: 0
@@ -1326,6 +1648,7 @@ GameObject:
   - component: {fileID: 7579657332859575186}
   - component: {fileID: 992545952286975425}
   - component: {fileID: 274687415320048879}
+  - component: {fileID: 2235500157198213209}
   m_Layer: 0
   m_Name: MDL_Flor_2
   m_TagString: Untagged
@@ -1405,6 +1728,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &2235500157198213209
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2717395702781989310}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &2771842015094445548
 GameObject:
   m_ObjectHideFlags: 0
@@ -1416,6 +1761,7 @@ GameObject:
   - component: {fileID: 621170189625633244}
   - component: {fileID: 1520934282188439398}
   - component: {fileID: 9128581151642704331}
+  - component: {fileID: 995348864767614828}
   m_Layer: 0
   m_Name: MDL_Pasto_Plano_1
   m_TagString: Untagged
@@ -1495,6 +1841,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &995348864767614828
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2771842015094445548}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &2837219399346358882
 GameObject:
   m_ObjectHideFlags: 0
@@ -1506,6 +1874,7 @@ GameObject:
   - component: {fileID: 6231790065824039734}
   - component: {fileID: 6019522326038014876}
   - component: {fileID: 1735951413078203924}
+  - component: {fileID: 8036262781113327109}
   m_Layer: 0
   m_Name: MDL_Pasto_10
   m_TagString: Untagged
@@ -1585,6 +1954,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &8036262781113327109
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2837219399346358882}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &2846701054938580819
 GameObject:
   m_ObjectHideFlags: 0
@@ -1596,6 +1987,7 @@ GameObject:
   - component: {fileID: 5866647720914992060}
   - component: {fileID: 639811901064339168}
   - component: {fileID: 1511055138143858199}
+  - component: {fileID: 6788550446650197692}
   m_Layer: 0
   m_Name: MDL_Pasto_Plano_3
   m_TagString: Untagged
@@ -1675,6 +2067,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &6788550446650197692
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2846701054938580819}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &2958859800921180588
 GameObject:
   m_ObjectHideFlags: 0
@@ -1686,6 +2100,7 @@ GameObject:
   - component: {fileID: 8469697423601800074}
   - component: {fileID: 7808883285656935809}
   - component: {fileID: 2671477006430545257}
+  - component: {fileID: 2479144271571322970}
   m_Layer: 0
   m_Name: MDL_Flores_5
   m_TagString: Untagged
@@ -1765,6 +2180,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &2479144271571322970
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2958859800921180588}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &3396191096036134156
 GameObject:
   m_ObjectHideFlags: 0
@@ -1776,6 +2213,7 @@ GameObject:
   - component: {fileID: 4912147220892401448}
   - component: {fileID: 2761743613936448307}
   - component: {fileID: 2181383206031010490}
+  - component: {fileID: 528772496983236062}
   m_Layer: 0
   m_Name: MDL_Arbol_fruto
   m_TagString: Untagged
@@ -1792,7 +2230,7 @@ Transform:
   m_GameObject: {fileID: 3396191096036134156}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 12.181719, y: 7.232969, z: -5.938789}
+  m_LocalPosition: {x: 12.18172, y: 7.232969, z: -5.938789}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1856,6 +2294,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &528772496983236062
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3396191096036134156}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c2305fc5fc7d0844db01d60f600670ae, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &3425876427899575766
 GameObject:
   m_ObjectHideFlags: 0
@@ -1867,6 +2327,7 @@ GameObject:
   - component: {fileID: 5463647645425864976}
   - component: {fileID: 5222090098311999230}
   - component: {fileID: 6722271382540351320}
+  - component: {fileID: 6705133974619385588}
   m_Layer: 0
   m_Name: MDL_Planta_2
   m_TagString: Untagged
@@ -1946,6 +2407,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &6705133974619385588
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3425876427899575766}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &3484604567314546318
 GameObject:
   m_ObjectHideFlags: 0
@@ -1957,6 +2440,7 @@ GameObject:
   - component: {fileID: 139629407186734449}
   - component: {fileID: 4837782083990161278}
   - component: {fileID: 6314409755586145354}
+  - component: {fileID: 6793160162520741704}
   m_Layer: 0
   m_Name: MDL_Pasto_5
   m_TagString: Untagged
@@ -2036,6 +2520,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &6793160162520741704
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3484604567314546318}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &3698587936956332680
 GameObject:
   m_ObjectHideFlags: 0
@@ -2084,6 +2590,7 @@ GameObject:
   - component: {fileID: 1422649998231578568}
   - component: {fileID: 395051894783200156}
   - component: {fileID: 6181333228386460880}
+  - component: {fileID: 6122773485201330710}
   m_Layer: 0
   m_Name: MDL_Flores_7
   m_TagString: Untagged
@@ -2163,6 +2670,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &6122773485201330710
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3758687457353863199}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &3770270772633640873
 GameObject:
   m_ObjectHideFlags: 0
@@ -2229,6 +2758,7 @@ GameObject:
   - component: {fileID: 8518483596895442718}
   - component: {fileID: 5114948573753470494}
   - component: {fileID: 2631184825746828823}
+  - component: {fileID: 6781226387933761802}
   m_Layer: 0
   m_Name: MDL_Flores_2
   m_TagString: Untagged
@@ -2308,6 +2838,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &6781226387933761802
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3793477648298435692}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &4111165314853608682
 GameObject:
   m_ObjectHideFlags: 0
@@ -2319,6 +2871,7 @@ GameObject:
   - component: {fileID: 1625715580746209051}
   - component: {fileID: 8427523021158445530}
   - component: {fileID: 1733733282195716639}
+  - component: {fileID: 9019862825877501976}
   m_Layer: 0
   m_Name: MDL_Piedra_2
   m_TagString: Untagged
@@ -2398,6 +2951,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &9019862825877501976
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4111165314853608682}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &4163554940663722872
 GameObject:
   m_ObjectHideFlags: 0
@@ -2409,6 +2984,7 @@ GameObject:
   - component: {fileID: 1777685195331102595}
   - component: {fileID: 1117886330387494426}
   - component: {fileID: 5874781661655263517}
+  - component: {fileID: 7285012440979441688}
   m_Layer: 0
   m_Name: MDL_Pasto_Plano_12
   m_TagString: Untagged
@@ -2488,6 +3064,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &7285012440979441688
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4163554940663722872}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &4177336127756306999
 GameObject:
   m_ObjectHideFlags: 0
@@ -2499,6 +3097,7 @@ GameObject:
   - component: {fileID: 7735923545453000632}
   - component: {fileID: 3328350910438382036}
   - component: {fileID: 5933596289725397508}
+  - component: {fileID: 6917826537422957994}
   m_Layer: 0
   m_Name: MDL_Pasto_7
   m_TagString: Untagged
@@ -2578,6 +3177,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &6917826537422957994
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4177336127756306999}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &4209070845870259040
 GameObject:
   m_ObjectHideFlags: 0
@@ -2589,6 +3210,7 @@ GameObject:
   - component: {fileID: 3286761047566903978}
   - component: {fileID: 3007873823633342441}
   - component: {fileID: 4836851026080565465}
+  - component: {fileID: 301329359396792165}
   m_Layer: 0
   m_Name: MDL_Pasto_13
   m_TagString: Untagged
@@ -2668,6 +3290,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &301329359396792165
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4209070845870259040}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &4268885202790632934
 GameObject:
   m_ObjectHideFlags: 0
@@ -2679,6 +3323,7 @@ GameObject:
   - component: {fileID: 4422168747730000684}
   - component: {fileID: 4272844309603233919}
   - component: {fileID: 8539530583435781881}
+  - component: {fileID: 6552250265447979325}
   m_Layer: 0
   m_Name: MDL_Pasto_Plano_10
   m_TagString: Untagged
@@ -2758,6 +3403,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &6552250265447979325
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4268885202790632934}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &4589532046140835215
 GameObject:
   m_ObjectHideFlags: 0
@@ -2769,6 +3436,7 @@ GameObject:
   - component: {fileID: 7719836412255850285}
   - component: {fileID: 4506790747975519439}
   - component: {fileID: 9154546226539210313}
+  - component: {fileID: 1284557450873861471}
   m_Layer: 0
   m_Name: MDL_Pasto_9
   m_TagString: Untagged
@@ -2848,6 +3516,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &1284557450873861471
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4589532046140835215}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &4709605710165706261
 GameObject:
   m_ObjectHideFlags: 0
@@ -2859,6 +3549,7 @@ GameObject:
   - component: {fileID: 3553356780189246107}
   - component: {fileID: 4875550042255258771}
   - component: {fileID: 156224507650706195}
+  - component: {fileID: 4347286675153119352}
   m_Layer: 0
   m_Name: MDL_Pasto_1
   m_TagString: Untagged
@@ -2938,6 +3629,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &4347286675153119352
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4709605710165706261}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &5137098501430550664
 GameObject:
   m_ObjectHideFlags: 0
@@ -2949,6 +3662,7 @@ GameObject:
   - component: {fileID: 5593326209197051367}
   - component: {fileID: 2495295619603150022}
   - component: {fileID: 144693103751267063}
+  - component: {fileID: 7367534350516994598}
   m_Layer: 0
   m_Name: MDL_Pez_naranja_2
   m_TagString: Untagged
@@ -2965,7 +3679,7 @@ Transform:
   m_GameObject: {fileID: 5137098501430550664}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -13.8062725, y: 1.9128115, z: -8.570713}
+  m_LocalPosition: {x: -13.80627, y: 1.9128115, z: -8.570713}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3028,6 +3742,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &7367534350516994598
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5137098501430550664}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c879822f6224d8a4a94828722129975b, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &5232737208660741614
 GameObject:
   m_ObjectHideFlags: 0
@@ -3039,6 +3775,7 @@ GameObject:
   - component: {fileID: 4745006286784193868}
   - component: {fileID: 1287903712954186303}
   - component: {fileID: 2604539091798571966}
+  - component: {fileID: 1685379706958884510}
   m_Layer: 0
   m_Name: MDL_Flores_8
   m_TagString: Untagged
@@ -3118,6 +3855,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &1685379706958884510
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5232737208660741614}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &5359565752507978440
 GameObject:
   m_ObjectHideFlags: 0
@@ -3277,6 +4036,7 @@ GameObject:
   - component: {fileID: 5300596206817848694}
   - component: {fileID: 2775747497505213342}
   - component: {fileID: 6618211438662987117}
+  - component: {fileID: 223573056311292642}
   m_Layer: 0
   m_Name: MDL_Pasto_Plano_15
   m_TagString: Untagged
@@ -3356,6 +4116,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &223573056311292642
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5588041703960670910}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &5637959332594795836
 GameObject:
   m_ObjectHideFlags: 0
@@ -3367,6 +4149,7 @@ GameObject:
   - component: {fileID: 4968325715443392322}
   - component: {fileID: 4178961715613049889}
   - component: {fileID: 4059578124313433143}
+  - component: {fileID: 116249835465806487}
   m_Layer: 0
   m_Name: MDL_Planta_1
   m_TagString: Untagged
@@ -3446,6 +4229,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &116249835465806487
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5637959332594795836}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &5722940087118323653
 GameObject:
   m_ObjectHideFlags: 0
@@ -3457,6 +4262,7 @@ GameObject:
   - component: {fileID: 5837181443682428007}
   - component: {fileID: 1904204279014399645}
   - component: {fileID: 1084004507247503959}
+  - component: {fileID: 4826607152629980650}
   m_Layer: 0
   m_Name: MDL_Arbol_1
   m_TagString: Untagged
@@ -3474,7 +4280,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 27.325706, y: 2.8019762, z: -5.6317706}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 7622770539090200743}
@@ -3536,6 +4342,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &4826607152629980650
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5722940087118323653}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c2305fc5fc7d0844db01d60f600670ae, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &5750490020655101267
 GameObject:
   m_ObjectHideFlags: 0
@@ -3547,6 +4375,7 @@ GameObject:
   - component: {fileID: 4861222887948300870}
   - component: {fileID: 734914946748655917}
   - component: {fileID: 7481289038403456708}
+  - component: {fileID: 2751610921273292251}
   m_Layer: 0
   m_Name: MDL_Pasto_4
   m_TagString: Untagged
@@ -3626,6 +4455,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &2751610921273292251
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5750490020655101267}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &5867866215719052910
 GameObject:
   m_ObjectHideFlags: 0
@@ -3637,6 +4488,7 @@ GameObject:
   - component: {fileID: 5892905900601812915}
   - component: {fileID: 1783347952693392501}
   - component: {fileID: 5744272192715790149}
+  - component: {fileID: 8631192291372834187}
   m_Layer: 0
   m_Name: MDL_Pasto_Plano_5
   m_TagString: Untagged
@@ -3716,6 +4568,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &8631192291372834187
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5867866215719052910}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &6429372318178603198
 GameObject:
   m_ObjectHideFlags: 0
@@ -3832,13 +4706,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6489257881909265707}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.0010362446, y: 0.08906461, z: -0.09128749}
+  m_LocalRotation: {x: -0, y: 0.003588144, z: -0, w: 0.9999936}
+  m_LocalPosition: {x: 0.001036246, y: 0.08906445, z: -0.09128749}
   m_LocalScale: {x: 0.3, y: 0.3, z: 0.3}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8247743138208423411}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0.411, z: 0}
 --- !u!33 &1358001694060807685
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -3907,6 +4781,7 @@ GameObject:
   - component: {fileID: 3274020210761503387}
   - component: {fileID: 2792777472600862645}
   - component: {fileID: 5568118571448056418}
+  - component: {fileID: 9168776399604211651}
   m_Layer: 0
   m_Name: MDL_Pasto_15
   m_TagString: Untagged
@@ -3986,6 +4861,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &9168776399604211651
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6628775157030041565}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &6696009630004064106
 GameObject:
   m_ObjectHideFlags: 0
@@ -3997,6 +4894,7 @@ GameObject:
   - component: {fileID: 3163394867068123179}
   - component: {fileID: 6135031763435002937}
   - component: {fileID: 9000835560857735983}
+  - component: {fileID: 9196657542033204792}
   m_Layer: 0
   m_Name: MDL_Pasto_8
   m_TagString: Untagged
@@ -4076,6 +4974,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &9196657542033204792
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6696009630004064106}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &6867482947388299179
 GameObject:
   m_ObjectHideFlags: 0
@@ -4087,6 +5007,7 @@ GameObject:
   - component: {fileID: 6826645216788617921}
   - component: {fileID: 1143299507329671933}
   - component: {fileID: 3760338562820742023}
+  - component: {fileID: 8012140845969077236}
   m_Layer: 0
   m_Name: MDL_Papiros
   m_TagString: Untagged
@@ -4166,6 +5087,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &8012140845969077236
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6867482947388299179}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &6890271477953885549
 GameObject:
   m_ObjectHideFlags: 0
@@ -4177,6 +5120,7 @@ GameObject:
   - component: {fileID: 286279633815439598}
   - component: {fileID: 7566666676215836074}
   - component: {fileID: 7345332142226602470}
+  - component: {fileID: 1530089699723662844}
   m_Layer: 0
   m_Name: MDL_Piedra_3
   m_TagString: Untagged
@@ -4256,6 +5200,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &1530089699723662844
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6890271477953885549}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &6931602763539045264
 GameObject:
   m_ObjectHideFlags: 0
@@ -4267,6 +5233,7 @@ GameObject:
   - component: {fileID: 7966076916869398169}
   - component: {fileID: 295696283936970094}
   - component: {fileID: 3484450945296940810}
+  - component: {fileID: 4649034304981206401}
   m_Layer: 0
   m_Name: MDL_Pasto_Plano_17
   m_TagString: Untagged
@@ -4346,6 +5313,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &4649034304981206401
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6931602763539045264}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &6965385087041726431
 GameObject:
   m_ObjectHideFlags: 0
@@ -4357,6 +5346,7 @@ GameObject:
   - component: {fileID: 5658154076232874127}
   - component: {fileID: 616029245012849590}
   - component: {fileID: 7949252351944307298}
+  - component: {fileID: 8504483083638110663}
   m_Layer: 0
   m_Name: MDL_Piedra_5
   m_TagString: Untagged
@@ -4436,6 +5426,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &8504483083638110663
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6965385087041726431}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &7052383173508806575
 GameObject:
   m_ObjectHideFlags: 0
@@ -4502,6 +5514,7 @@ GameObject:
   - component: {fileID: 2773586959715540147}
   - component: {fileID: 4679207611037633721}
   - component: {fileID: 1733075647857454710}
+  - component: {fileID: 2148444222006722069}
   m_Layer: 0
   m_Name: MDL_Pasto_Plano_19
   m_TagString: Untagged
@@ -4581,6 +5594,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &2148444222006722069
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7074314635944664156}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &7078721306068765647
 GameObject:
   m_ObjectHideFlags: 0
@@ -4624,6 +5659,7 @@ GameObject:
   - component: {fileID: 7080249996322329319}
   - component: {fileID: 2916325369432775260}
   - component: {fileID: 4428926557630325412}
+  - component: {fileID: 9078194417860662261}
   m_Layer: 0
   m_Name: MDL_Pasto_12
   m_TagString: Untagged
@@ -4703,6 +5739,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &9078194417860662261
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7079949583835129675}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &7201234658539903640
 GameObject:
   m_ObjectHideFlags: 0
@@ -4714,6 +5772,7 @@ GameObject:
   - component: {fileID: 7489315070924274406}
   - component: {fileID: 5556281159534544526}
   - component: {fileID: 5161224604057885994}
+  - component: {fileID: 2824119745364338426}
   m_Layer: 0
   m_Name: MDL_Pasto_Plano_16
   m_TagString: Untagged
@@ -4793,6 +5852,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &2824119745364338426
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7201234658539903640}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &7476031355013551723
 GameObject:
   m_ObjectHideFlags: 0
@@ -4804,6 +5885,7 @@ GameObject:
   - component: {fileID: 34794308133719352}
   - component: {fileID: 9173855117764905526}
   - component: {fileID: 56791449471153488}
+  - component: {fileID: 414153283476177116}
   m_Layer: 0
   m_Name: MDL_Arbol_2
   m_TagString: Untagged
@@ -4821,7 +5903,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 22.868273, y: 4.2217093, z: 11.188638}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 7622770539090200743}
@@ -4883,6 +5965,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &414153283476177116
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7476031355013551723}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c2305fc5fc7d0844db01d60f600670ae, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &7560219431654501340
 GameObject:
   m_ObjectHideFlags: 0
@@ -4894,6 +5998,7 @@ GameObject:
   - component: {fileID: 1812963089812915052}
   - component: {fileID: 6477463747690759124}
   - component: {fileID: 192086860144179391}
+  - component: {fileID: 7718373963642419306}
   m_Layer: 0
   m_Name: MDL_Flores_3
   m_TagString: Untagged
@@ -4973,6 +6078,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &7718373963642419306
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7560219431654501340}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &7580867005597873167
 GameObject:
   m_ObjectHideFlags: 0
@@ -4984,6 +6111,7 @@ GameObject:
   - component: {fileID: 1982564446185315014}
   - component: {fileID: 7681416370913882870}
   - component: {fileID: 3293160145219645081}
+  - component: {fileID: 7812057070672919769}
   m_Layer: 0
   m_Name: MDL_Pasto_3
   m_TagString: Untagged
@@ -5063,6 +6191,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &7812057070672919769
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7580867005597873167}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &7608886906331349978
 GameObject:
   m_ObjectHideFlags: 0
@@ -5074,6 +6224,7 @@ GameObject:
   - component: {fileID: 3461556155104287987}
   - component: {fileID: 2320039338930555219}
   - component: {fileID: 7569021976451736390}
+  - component: {fileID: 6301327090359568496}
   m_Layer: 0
   m_Name: MDL_Pasto_Plano_2
   m_TagString: Untagged
@@ -5153,6 +6304,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &6301327090359568496
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7608886906331349978}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &7697086735065939059
 GameObject:
   m_ObjectHideFlags: 0
@@ -5164,6 +6337,7 @@ GameObject:
   - component: {fileID: 8509500628490112072}
   - component: {fileID: 2830448775727569466}
   - component: {fileID: 7159766884787887817}
+  - component: {fileID: 1054081896690430997}
   m_Layer: 0
   m_Name: MDL_Arbol_3
   m_TagString: Untagged
@@ -5181,7 +6355,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 4.297196, y: 1.349093, z: 7.3418555}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 7622770539090200743}
@@ -5243,6 +6417,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &1054081896690430997
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7697086735065939059}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c2305fc5fc7d0844db01d60f600670ae, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &7736191961973827394
 GameObject:
   m_ObjectHideFlags: 0
@@ -5305,6 +6501,7 @@ GameObject:
   - component: {fileID: 2713624980882663011}
   - component: {fileID: 6881190529993701299}
   - component: {fileID: 7710099715610336314}
+  - component: {fileID: 4486860549840712730}
   m_Layer: 0
   m_Name: MDL_Pasto_Plano_11
   m_TagString: Untagged
@@ -5384,6 +6581,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &4486860549840712730
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8086402819836120547}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &8174439339683863572
 GameObject:
   m_ObjectHideFlags: 0
@@ -5395,6 +6614,7 @@ GameObject:
   - component: {fileID: 5309111014105541275}
   - component: {fileID: 5795344008813375037}
   - component: {fileID: 8260449798911506809}
+  - component: {fileID: 3805877633052437916}
   m_Layer: 0
   m_Name: MDL_Pasto_Plano_18
   m_TagString: Untagged
@@ -5474,6 +6694,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &3805877633052437916
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8174439339683863572}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &8283230340918193191
 GameObject:
   m_ObjectHideFlags: 0
@@ -5485,6 +6727,7 @@ GameObject:
   - component: {fileID: 2128956819478915936}
   - component: {fileID: 2779288079932820631}
   - component: {fileID: 2997006184280271380}
+  - component: {fileID: 3638989101473260512}
   m_Layer: 0
   m_Name: MDL_Pasto_Plano_13
   m_TagString: Untagged
@@ -5564,6 +6807,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &3638989101473260512
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8283230340918193191}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &8381271043267153866
 GameObject:
   m_ObjectHideFlags: 0
@@ -5575,6 +6840,7 @@ GameObject:
   - component: {fileID: 1548590736784488944}
   - component: {fileID: 4442911394661003043}
   - component: {fileID: 1518259241444848753}
+  - component: {fileID: 1486817515943358944}
   m_Layer: 0
   m_Name: MDL_Pez_naranja_3
   m_TagString: Untagged
@@ -5590,13 +6856,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8381271043267153866}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -16.833212, y: 1.7732854, z: -9.883478}
+  m_LocalRotation: {x: -0.008609941, y: -0.008586609, z: -0.0021169204, w: 0.9999238}
+  m_LocalPosition: {x: -16.832804, y: 1.7680082, z: -9.863763}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 7622770539090200743}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -0.989, y: -0.982, z: -0.234}
 --- !u!33 &4442911394661003043
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -5654,6 +6920,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &1486817515943358944
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8381271043267153866}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 446cc067990dc764cabb118e16094483, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &8429618140744528284
 GameObject:
   m_ObjectHideFlags: 0
@@ -5665,6 +6953,7 @@ GameObject:
   - component: {fileID: 7687458564923745240}
   - component: {fileID: 786002724375837572}
   - component: {fileID: 7001455414578320757}
+  - component: {fileID: 2492354316804070655}
   m_Layer: 0
   m_Name: MDL_Flores_6
   m_TagString: Untagged
@@ -5744,6 +7033,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &2492354316804070655
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8429618140744528284}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &8628399499149342778
 GameObject:
   m_ObjectHideFlags: 0
@@ -5810,6 +7121,7 @@ GameObject:
   - component: {fileID: 7619999722751392550}
   - component: {fileID: 7008714645682642957}
   - component: {fileID: 9033248253392058337}
+  - component: {fileID: 8419102108645462706}
   m_Layer: 0
   m_Name: MDL_Flores_1
   m_TagString: Untagged
@@ -5889,6 +7201,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &8419102108645462706
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8748516882717205581}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &8851873879716735350
 GameObject:
   m_ObjectHideFlags: 0
@@ -5900,6 +7234,7 @@ GameObject:
   - component: {fileID: 1430112327950964521}
   - component: {fileID: 1069821363987672341}
   - component: {fileID: 7977847757942462580}
+  - component: {fileID: 1685828562086576025}
   m_Layer: 0
   m_Name: MDL_Pasto_Plano_14
   m_TagString: Untagged
@@ -5979,6 +7314,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &1685828562086576025
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8851873879716735350}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ba9a03baaca428847a21058855e47d9c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &8929226179813762020
 GameObject:
   m_ObjectHideFlags: 0
@@ -5990,6 +7347,7 @@ GameObject:
   - component: {fileID: 8271683711830057936}
   - component: {fileID: 4353572620258646899}
   - component: {fileID: 6800645316380646239}
+  - component: {fileID: 7680805889906388058}
   m_Layer: 0
   m_Name: MDL_Flores_4
   m_TagString: Untagged
@@ -6069,6 +7427,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &7680805889906388058
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8929226179813762020}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &9171643918983000018
 GameObject:
   m_ObjectHideFlags: 0
@@ -6080,6 +7460,7 @@ GameObject:
   - component: {fileID: 4273565232110322380}
   - component: {fileID: 2672002255315812690}
   - component: {fileID: 1746029584884496108}
+  - component: {fileID: 3391264713570206758}
   m_Layer: 0
   m_Name: MDL_Pasto_14
   m_TagString: Untagged
@@ -6159,6 +7540,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &3391264713570206758
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9171643918983000018}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7148431fb32373f40b8b4b923ce2ec4d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1001 &776818866775361225
 PrefabInstance:
   m_ObjectHideFlags: 0
