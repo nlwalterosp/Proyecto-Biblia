@@ -30,17 +30,48 @@ public class ImageTargetVisibility : MonoBehaviour
 
     void Activar(ARTrackedImage img, bool activo)
     {
-        img.gameObject.SetActive(activo);
+        string targetName = img.referenceImage.name;
 
-        Animator[] animators = img.GetComponentsInChildren<Animator>();
-        foreach (Animator anim in animators)
+        foreach (Transform child in img.transform)
         {
-            anim.enabled = activo;
-            if (activo)
+            bool activarEste = activo && child.name == targetName;
+            child.gameObject.SetActive(activarEste);
+
+            Animator[] animators = child.GetComponentsInChildren<Animator>();
+            foreach (Animator anim in animators)
             {
-                anim.ResetTrigger("StartAnim");
-                anim.SetTrigger("StartAnim");
+                anim.enabled = activarEste;
+
+                if (activarEste)
+                {
+                    anim.ResetTrigger("StartAnim");
+                    anim.SetTrigger("StartAnim");
+                }
+            }
+        }
+        void Activar(ARTrackedImage img, bool activo)
+        {
+            string targetName = img.referenceImage.name;
+
+            foreach (Transform child in img.transform)
+            {
+                bool activarEste = activo && child.name == targetName;
+                child.gameObject.SetActive(activarEste);
+
+                Animator[] animators = child.GetComponentsInChildren<Animator>();
+                foreach (Animator anim in animators)
+                {
+                    anim.enabled = activarEste;
+
+                    if (activarEste)
+                    {
+                        anim.ResetTrigger("StartAnim");
+                        anim.SetTrigger("StartAnim");
+                    }
+                }
             }
         }
     }
+
 }
+
