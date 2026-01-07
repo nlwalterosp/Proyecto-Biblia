@@ -21,9 +21,19 @@ MonoBehaviour:
       m_GuidLow: 4774740259673506723
       m_GuidHigh: 949854509402209697
     m_SerializedTextureGuid:
-      m_GuidLow: 8053679584220770971
-      m_GuidHigh: 17167739082881299755
+      m_GuidLow: 1730690283424270884
+      m_GuidHigh: 11333876569013976683
     m_Size: {x: 0.2, y: 0.2}
     m_SpecifySize: 1
-    m_Name: Target_AR
+    m_Name: Targets-LaCreacion
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5204169767024533288
+      m_GuidHigh: 4381731558757966255
+    m_SerializedTextureGuid:
+      m_GuidLow: 6027119411956516693
+      m_GuidHigh: 1058747106266755499
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: Demo_Interaccion_2
     m_Texture: {fileID: 0}
