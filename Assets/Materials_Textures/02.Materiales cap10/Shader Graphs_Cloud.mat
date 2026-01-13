@@ -21,7 +21,7 @@ Material:
   stringTagMap: {}
   disabledShaderPasses:
   - MOTIONVECTORS
-  m_LockedProperties: 
+  m_LockedProperties: _Fade_Depth
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -42,7 +42,7 @@ Material:
     - _Color_Divide_Blur: 6.27
     - _Color_Divide_Hight: -2.33
     - _Displacement_Intensity: 0.2
-    - _Displacement_Scale: 5
+    - _Displacement_Scale: 1
     - _Displacement_Speed: 0.05
     - _Fade_Depth: 1
     - _Fade_Edg: 0.1
@@ -51,8 +51,8 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Color: {r: 0.39622638, g: 0.38314342, b: 0.38314342, a: 0.92156863}
-    - _Color_1: {r: 0.7169812, g: 0.51462734, b: 0.42274833, a: 0.50980395}
+    - _Color: {r: 0.05660379, g: 0.04832682, b: 0.04832682, a: 1}
+    - _Color_1: {r: 0.6415094, g: 0.6058431, b: 0.5900676, a: 0.50980395}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &8992939880565742607
