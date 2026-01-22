@@ -1,15 +1,24 @@
-Shader "Custom/StylizedLambertTexture"
+Shader "Custom/StylizedLambertTexture_Transparent"
 {
     Properties
     {
         _BaseMap("Base Map", 2D) = "white" {}
         _Color("Color Tint", Color) = (1,1,1,1)
         _DiffuseBoost("Diffuse Boost", Range(0,2)) = 1.0
+        _Cutoff("Alpha Cutoff", Range(0,1)) = 0.01
     }
 
         SubShader
         {
-            Tags { "RenderPipeline" = "UniversalPipeline" "Queue" = "Geometry" }
+            Tags {
+               "RenderPipeline" = "UniversalPipeline"
+                "Queue" = "Transparent"
+                "RenderType" = "Transparent"
+            }
+
+            Blend SrcAlpha OneMinusSrcAlpha
+            Cull Off
+            ZWrite On
 
             Pass
             {
@@ -19,11 +28,6 @@ Shader "Custom/StylizedLambertTexture"
                 HLSLPROGRAM
                 #pragma vertex vert
                 #pragma fragment frag
-                #pragma multi_compile_fog
-                #pragma multi_compile _ _MAIN_LIGHT_SHADOWS
-                #pragma multi_compile _ _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHTS
-                #pragma multi_compile _ _ADDITIONAL_LIGHT_SHADOWS
-
                 #include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/Core.hlsl"
                 #include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/Lighting.hlsl"
 
@@ -46,6 +50,7 @@ Shader "Custom/StylizedLambertTexture"
 
                 float4 _Color;
                 float _DiffuseBoost;
+                float _Cutoff;
 
                 Varyings vert(Attributes IN)
                 {
@@ -58,19 +63,18 @@ Shader "Custom/StylizedLambertTexture"
 
                 float4 frag(Varyings IN) : SV_Target
                 {
-                    float3 normal = normalize(IN.normalWS);
+                    float4 tex = SAMPLE_TEXTURE2D(_BaseMap, sampler_BaseMap, IN.uv);
 
-                    float3 baseTex = SAMPLE_TEXTURE2D(_BaseMap, sampler_BaseMap, IN.uv).rgb * _Color.rgb;
+                    if (tex.a < _Cutoff) discard;
 
-                    // luz principal
+                    float3 base = tex.rgb * _Color.rgb;
                     Light mainLight = GetMainLight();
-                    float NdotL = saturate(dot(normal, -mainLight.direction));
-                    float3 lambert = baseTex * NdotL * _DiffuseBoost;
+                    float NdotL = saturate(dot(normalize(IN.normalWS), -mainLight.direction));
+                    float3 lambert = base * NdotL * _DiffuseBoost;
 
-                    // luz ambiente
-                    float3 ambient = baseTex * 0.3;
+                    float3 ambient = base * 0.3;
 
-                    return float4(lambert + ambient, 1.0);
+                    return float4(lambert + ambient, tex.a);
                 }
                 ENDHLSL
             }
