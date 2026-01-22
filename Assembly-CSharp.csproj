@@ -74,6 +74,7 @@
     <None Include="Assets\Materials_Textures\Materiales URP_Lit Cartoon\Codigo_Shaders\unlitToom.shader" />
     <None Include="Assets\Settings\NewUnlitUniversalRenderPipelineShader.shader" />
     <None Include="Assets\Materials_Textures\Materiales URP_Lit Cartoon\Codigo_Shaders\UnlitTarasparente.shader" />
+    <None Include="Assets\Materials_Textures\Materiales URP_Lit Cartoon\Codigo_Shaders\UnlitToom_doblecara.shader" />
     <None Include="Assets\Materials_Textures\Materiales URP_Lit Cartoon\Codigo_Shaders\CustomStylizedFire_Light.shader" />
   </ItemGroup>
   <ItemGroup>
