@@ -9,7 +9,7 @@ Shader "Custom/StylizedLambertTexture"
 
         SubShader
         {
-            Tags { "RenderPipeline" = "UniversalPipeline" "Queue" = "Opaque" }
+            Tags { "RenderPipeline" = "UniversalPipeline" "Queue" = "Geometry" }
 
             Pass
             {
