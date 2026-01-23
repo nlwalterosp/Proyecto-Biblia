@@ -435,50 +435,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Contenedor_Tomo1
       objectReference: {fileID: 0}
-    - target: {fileID: 4203445445091124752, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5026256972177058313, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.185
-      objectReference: {fileID: 0}
-    - target: {fileID: 5026256972177058313, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.324
-      objectReference: {fileID: 0}
-    - target: {fileID: 6608701991902294065, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_Size.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6608701991902294065, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_Size.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6608701991902294065, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_Size.z
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6608701991902294065, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_Center.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6608701991902294065, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_Center.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6608701991902294065, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_Center.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6907403976360802780, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8634605833127352085, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
