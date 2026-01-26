@@ -65,7 +65,6 @@
     <Compile Include="Assets\Scripts\LimitarEnHoja.cs" />
     <Compile Include="Assets\Scripts\ImageTargetVisibility.cs" />
     <Compile Include="Assets\Scripts\ElementsControl.cs" />
-    <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Scripts\ShowTargetOrigin.cs" />
     <Compile Include="Assets\Scripts\AjustarPosicionAR.cs" />
     <Compile Include="Assets\Scripts\LimitCameraDistance.cs" />
