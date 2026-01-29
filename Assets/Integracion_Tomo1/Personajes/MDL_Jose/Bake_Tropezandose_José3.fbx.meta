@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d848d363de07f864b8970070b42441e3
+guid: f3cf94e34468ff84fb3663adaacd6489
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
@@ -31,11 +31,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Saludando_Jose
+      name: Tropezando_Jose
       takeName: Armature|ArmatureAction
       internalID: 4781951162920444690
       firstFrame: 0
-      lastFrame: 125
+      lastFrame: 159
       wrapMode: 0
       orientationOffsetY: 0
       level: 0

@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Tex_Espada_URP
-  m_Shader: {fileID: 4800000, guid: 2094998be019d6b4a8f0df8b2cd35dd3, type: 3}
+  m_Name: Tex_Cara_Jose
+  m_Shader: {fileID: 4800000, guid: 34ebd4dfc01c2e443bf389aec894258b, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -38,7 +38,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 846f4db76748bbc48bc7848e6f171ed7, type: 3}
+        m_Texture: {fileID: 2800000, guid: b00ba1480190cb1459fadf0a0f5ff348, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -62,7 +62,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 846f4db76748bbc48bc7848e6f171ed7, type: 3}
+        m_Texture: {fileID: 2800000, guid: d3953e22188a7f54fb61e14ade9afd80, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
