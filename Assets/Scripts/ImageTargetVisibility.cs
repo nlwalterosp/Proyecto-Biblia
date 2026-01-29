@@ -49,7 +49,7 @@ public class ImageTargetVisibility : MonoBehaviour
                 }
             }
         }
-        void Activar(ARTrackedImage img, bool activo)
+         void Activar(ARTrackedImage img, bool activo)
         {
             string targetName = img.referenceImage.name;
 
@@ -70,7 +70,7 @@ public class ImageTargetVisibility : MonoBehaviour
                     }
                 }
             }
-        }
+        } 
     }
 
 }
