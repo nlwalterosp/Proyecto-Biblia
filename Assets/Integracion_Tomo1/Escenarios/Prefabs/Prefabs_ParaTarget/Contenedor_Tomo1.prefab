@@ -244,6 +244,26 @@ PrefabInstance:
       propertyPath: 'elementos.Array.data[5]'
       value: 
       objectReference: {fileID: 8027751205143165258}
+    - target: {fileID: 6118354703755036638, guid: 766f7dc06c4ce1145b0b40ad1ecfbc4f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6118354703755036638, guid: 766f7dc06c4ce1145b0b40ad1ecfbc4f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6118354703755036638, guid: 766f7dc06c4ce1145b0b40ad1ecfbc4f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6118354703755036638, guid: 766f7dc06c4ce1145b0b40ad1ecfbc4f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6118354703755036638, guid: 766f7dc06c4ce1145b0b40ad1ecfbc4f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6396391612732885057, guid: 766f7dc06c4ce1145b0b40ad1ecfbc4f, type: 3}
       propertyPath: m_Controller
       value: 
