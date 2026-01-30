@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 67204a7b433f513469b2880399c71bd1
+guid: c27715fbe75607241837062b583e5a2e
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
@@ -31,18 +31,18 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Idle_Jose
-      takeName: Armature|ArmatureAction
-      internalID: 4781951162920444690
+      name: Oveja_blanca_Comiendo
+      takeName: RIG_Oveja_blanca|RIG_Oveja_blancaAction
+      internalID: -1978926244255413828
       firstFrame: 0
-      lastFrame: 179
+      lastFrame: 199
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
@@ -129,7 +129,7 @@ ModelImporter:
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 1
+  avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   importBlendShapeDeformPercent: 1
   remapMaterialsIfMaterialImportModeIsNone: 0
