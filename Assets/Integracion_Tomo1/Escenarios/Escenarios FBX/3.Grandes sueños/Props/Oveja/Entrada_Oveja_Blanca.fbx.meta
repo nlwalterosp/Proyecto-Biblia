@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 67204a7b433f513469b2880399c71bd1
+guid: bbfb136703ca626408506adad301324b
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
@@ -31,11 +31,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Idle_Jose
-      takeName: Armature|ArmatureAction
-      internalID: 4781951162920444690
+      name: Oveja_Entrada_blancaAction
+      takeName: RIG_Oveja_blanca|RIG_Oveja_blancaAction
+      internalID: -1978926244255413828
       firstFrame: 0
-      lastFrame: 179
+      lastFrame: 49
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
