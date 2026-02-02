@@ -246,6 +246,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cartoon Fire (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1295194374111310272, guid: 06b2c745cecb20d48a46b63c9295b949, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1773393773271514550, guid: 06b2c745cecb20d48a46b63c9295b949, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.3
@@ -1001,30 +1005,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 301648161346509653, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: 301648161346509653, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.00000055879354
-      objectReference: {fileID: 0}
-    - target: {fileID: 301648161346509653, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.042354316
-      objectReference: {fileID: 0}
-    - target: {fileID: 301648161346509653, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.8893769
-      objectReference: {fileID: 0}
-    - target: {fileID: 301648161346509653, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.45717487
-      objectReference: {fileID: 0}
-    - target: {fileID: 301648161346509653, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -54.41
-      objectReference: {fileID: 0}
     - target: {fileID: 2249068110237731351, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
       propertyPath: m_Name
       value: Targets-Huida_Lot
@@ -1070,16 +1050,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects:
-    - {fileID: 6941139509552238773, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
-    - {fileID: 4541014807406429902, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
-    - {fileID: 4661074752796425565, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
-    - {fileID: 4750914480365203766, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
-    - {fileID: 2427001577418501934, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
-    - {fileID: 5611417879320589284, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
-    - {fileID: 8540064812482573931, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
-    - {fileID: 3010288746980328162, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
-    - {fileID: 1471591401457678586, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
+    m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
@@ -1261,6 +1232,10 @@ PrefabInstance:
     - target: {fileID: 7730547771838781762, guid: 5b69db3f7e7a4e24ea9749c9a7f2bfa8, type: 3}
       propertyPath: m_Name
       value: Fire
+      objectReference: {fileID: 0}
+    - target: {fileID: 7730547771838781762, guid: 5b69db3f7e7a4e24ea9749c9a7f2bfa8, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
