@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\ImageTargetVisibility.cs" />
     <Compile Include="Assets\Scripts\ElementsControl.cs" />
     <Compile Include="Assets\Scripts\ShowTargetOrigin.cs" />
+    <Compile Include="Assets\Scripts\Scrips_Animator\ControlSimple.cs" />
     <Compile Include="Assets\Scripts\AjustarPosicionAR.cs" />
     <Compile Include="Assets\Scripts\LimitCameraDistance.cs" />
   </ItemGroup>
