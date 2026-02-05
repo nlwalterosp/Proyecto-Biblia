@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6661687983272957420
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5603588564268674278}
+  - component: {fileID: 8400452930510903909}
+  m_Layer: 0
+  m_Name: Fuego_cartoon             (3) 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5603588564268674278
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6661687983272957420}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.26206347, y: -0.9635497, z: 0.03416229, w: 0.041565593}
+  m_LocalPosition: {x: 0.022, y: 0.0437, z: 0.0335}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 477021342938998389}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 5.027, y: -176.42, z: 1769.727}
+--- !u!95 &8400452930510903909
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6661687983272957420}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c2d0b8d457a7aa847abc2cb648ae71a4, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!1001 &2162541872035421123
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 5603588564268674278}
+    m_Modifications:
+    - target: {fileID: 1295194374111310272, guid: 06b2c745cecb20d48a46b63c9295b949, type: 3}
+      propertyPath: m_Name
+      value: Cartoon Fire (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773393773271514550, guid: 06b2c745cecb20d48a46b63c9295b949, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773393773271514550, guid: 06b2c745cecb20d48a46b63c9295b949, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773393773271514550, guid: 06b2c745cecb20d48a46b63c9295b949, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773393773271514550, guid: 06b2c745cecb20d48a46b63c9295b949, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9791482
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773393773271514550, guid: 06b2c745cecb20d48a46b63c9295b949, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.025940983
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773393773271514550, guid: 06b2c745cecb20d48a46b63c9295b949, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.03156258
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773393773271514550, guid: 06b2c745cecb20d48a46b63c9295b949, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.19899672
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773393773271514550, guid: 06b2c745cecb20d48a46b63c9295b949, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -2.191
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773393773271514550, guid: 06b2c745cecb20d48a46b63c9295b949, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 355.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773393773271514550, guid: 06b2c745cecb20d48a46b63c9295b949, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 23.055
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800267579747512826, guid: 06b2c745cecb20d48a46b63c9295b949, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c2d0b8d457a7aa847abc2cb648ae71a4, type: 2}
+    - target: {fileID: 7321170850237419569, guid: 06b2c745cecb20d48a46b63c9295b949, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c2d0b8d457a7aa847abc2cb648ae71a4, type: 2}
+    - target: {fileID: 8145263084745438344, guid: 06b2c745cecb20d48a46b63c9295b949, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c2d0b8d457a7aa847abc2cb648ae71a4, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 06b2c745cecb20d48a46b63c9295b949, type: 3}
+--- !u!4 &477021342938998389 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1773393773271514550, guid: 06b2c745cecb20d48a46b63c9295b949, type: 3}
+  m_PrefabInstance: {fileID: 2162541872035421123}
+  m_PrefabAsset: {fileID: 0}
