@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: 2e617da5312f5ae478ed9917feae9449
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprites - FuegoNuevo_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 400
+        width: 232
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229429b63768ee1469c988e72b24cb3e
+      internalID: 504661749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - FuegoNuevo_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 400
+        width: 231
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07288585d8fc97f41a586cf9550d8187
+      internalID: -1213567603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - FuegoNuevo_11
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 396
+        width: 233
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5ab12678069ea4396d244b7fcb3f4f
+      internalID: -464165783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - FuegoNuevo_17
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 400
+        width: 234
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2c7721ba1def34982eb0538417233f
+      internalID: -752179151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - FuegoNuevo_20
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 396
+        width: 225
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc028bf5810d7c247a30d2301a86be33
+      internalID: 907637689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - FuegoNuevo_21
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 396
+        width: 232
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97146ebf9b913f943a8b5e8dc85857db
+      internalID: 622048399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - FuegoNuevo_38
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 63
+        width: 228
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f91cbf58afcee5458e499ed71fc3263
+      internalID: 1451667243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - FuegoNuevo_46
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 74
+        width: 255
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf56f8a8ff32301478aee034d80c7c9d
+      internalID: -1185173866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - FuegoNuevo_48
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 72
+        width: 248
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510b2d4e389854841bb1b3b33ea1f7a0
+      internalID: 1643665148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - FuegoNuevo_50
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 75
+        width: 226
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42063a28c141c944a578eef43ab2f6d
+      internalID: -214572524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - FuegoNuevo_53
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 72
+        width: 228
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a975248365bf4ae4ab813fb88c4f5be5
+      internalID: -591138946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - FuegoNuevo_55
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 72
+        width: 226
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87dfd00e9927284eaa9cf947e19764b
+      internalID: 1858024652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1bf544d446782ca40ab0eec1efd8f27d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Sprites - FuegoNuevo_0: -241720723
+      Sprites - FuegoNuevo_1: 611584098
+      Sprites - FuegoNuevo_10: 955330464
+      Sprites - FuegoNuevo_11: -464165783
+      Sprites - FuegoNuevo_12: -1868916576
+      Sprites - FuegoNuevo_13: -959330351
+      Sprites - FuegoNuevo_14: 1433969717
+      Sprites - FuegoNuevo_15: 873175605
+      Sprites - FuegoNuevo_16: -2127613825
+      Sprites - FuegoNuevo_17: -752179151
+      Sprites - FuegoNuevo_18: 1084435955
+      Sprites - FuegoNuevo_19: -307002792
+      Sprites - FuegoNuevo_2: 504661749
+      Sprites - FuegoNuevo_20: 907637689
+      Sprites - FuegoNuevo_21: 622048399
+      Sprites - FuegoNuevo_22: -1076599529
+      Sprites - FuegoNuevo_23: 227160827
+      Sprites - FuegoNuevo_24: -42329494
+      Sprites - FuegoNuevo_25: -1661137266
+      Sprites - FuegoNuevo_26: -2022007232
+      Sprites - FuegoNuevo_27: 1092724931
+      Sprites - FuegoNuevo_28: -628499591
+      Sprites - FuegoNuevo_29: -1088018126
+      Sprites - FuegoNuevo_3: -1213567603
+      Sprites - FuegoNuevo_30: -716857643
+      Sprites - FuegoNuevo_31: 2033713616
+      Sprites - FuegoNuevo_32: 378269222
+      Sprites - FuegoNuevo_33: 1496115694
+      Sprites - FuegoNuevo_34: -886327900
+      Sprites - FuegoNuevo_35: -1192591579
+      Sprites - FuegoNuevo_36: -628342787
+      Sprites - FuegoNuevo_37: 743822804
+      Sprites - FuegoNuevo_38: 1451667243
+      Sprites - FuegoNuevo_39: 128407112
+      Sprites - FuegoNuevo_4: -366927139
+      Sprites - FuegoNuevo_40: 1736079391
+      Sprites - FuegoNuevo_41: -332146006
+      Sprites - FuegoNuevo_42: -867586591
+      Sprites - FuegoNuevo_43: -667040738
+      Sprites - FuegoNuevo_44: -634049132
+      Sprites - FuegoNuevo_45: -524026779
+      Sprites - FuegoNuevo_46: -1185173866
+      Sprites - FuegoNuevo_47: 681833499
+      Sprites - FuegoNuevo_48: 1643665148
+      Sprites - FuegoNuevo_49: 178574250
+      Sprites - FuegoNuevo_5: -1514382839
+      Sprites - FuegoNuevo_50: -214572524
+      Sprites - FuegoNuevo_51: -1356490606
+      Sprites - FuegoNuevo_52: 1426216489
+      Sprites - FuegoNuevo_53: -591138946
+      Sprites - FuegoNuevo_54: -399401911
+      Sprites - FuegoNuevo_55: 1858024652
+      Sprites - FuegoNuevo_6: 9712672
+      Sprites - FuegoNuevo_7: -1201642615
+      Sprites - FuegoNuevo_8: 194900258
+      Sprites - FuegoNuevo_9: -1378001969
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
