@@ -119,6 +119,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -126,9 +139,9 @@ TextureImporter:
       name: bola de fuego_0
       rect:
         serializedVersion: 2
-        x: 82
+        x: 102
         y: 1262
-        width: 390
+        width: 370
         height: 255
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -192,10 +205,10 @@ TextureImporter:
       name: bola de fuego_4
       rect:
         serializedVersion: 2
-        x: 1451
-        y: 1258
-        width: 358
-        height: 230
+        x: 1439
+        y: 1262
+        width: 370
+        height: 226
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,10 +315,10 @@ TextureImporter:
       name: bola de fuego_12
       rect:
         serializedVersion: 2
-        x: 1408
-        y: 951
-        width: 395
-        height: 258
+        x: 1440
+        y: 948
+        width: 363
+        height: 232
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -324,10 +337,10 @@ TextureImporter:
       name: bola de fuego_14
       rect:
         serializedVersion: 2
-        x: 1873
+        x: 1904
         y: 948
-        width: 380
-        height: 253
+        width: 349
+        height: 248
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,10 +381,10 @@ TextureImporter:
       name: bola de fuego_21
       rect:
         serializedVersion: 2
-        x: 519
+        x: 594
         y: 661
-        width: 458
-        height: 238
+        width: 383
+        height: 241
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -456,10 +469,10 @@ TextureImporter:
       name: bola de fuego_28
       rect:
         serializedVersion: 2
-        x: 93
+        x: 143
         y: 354
-        width: 406
-        height: 235
+        width: 356
+        height: 241
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -478,10 +491,10 @@ TextureImporter:
       name: bola de fuego_30
       rect:
         serializedVersion: 2
-        x: 554
+        x: 587
         y: 347
-        width: 426
-        height: 247
+        width: 389
+        height: 248
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -522,10 +535,10 @@ TextureImporter:
       name: bola de fuego_32
       rect:
         serializedVersion: 2
-        x: 1428
-        y: 361
-        width: 382
-        height: 241
+        x: 1405
+        y: 354
+        width: 405
+        height: 248
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -544,10 +557,10 @@ TextureImporter:
       name: bola de fuego_34
       rect:
         serializedVersion: 2
-        x: 1852
-        y: 349
-        width: 399
-        height: 253
+        x: 1890
+        y: 354
+        width: 361
+        height: 248
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -566,10 +579,10 @@ TextureImporter:
       name: bola de fuego_42
       rect:
         serializedVersion: 2
-        x: 87
+        x: 67
         y: 40
-        width: 419
-        height: 246
+        width: 439
+        height: 241
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -610,9 +623,9 @@ TextureImporter:
       name: bola de fuego_45
       rect:
         serializedVersion: 2
-        x: 986
+        x: 996
         y: 40
-        width: 420
+        width: 410
         height: 248
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -632,10 +645,10 @@ TextureImporter:
       name: bola de fuego_47
       rect:
         serializedVersion: 2
-        x: 1432
+        x: 1454
         y: 40
-        width: 405
-        height: 248
+        width: 383
+        height: 241
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -654,10 +667,10 @@ TextureImporter:
       name: bola de fuego_48
       rect:
         serializedVersion: 2
-        x: 1882
+        x: 1891
         y: 40
-        width: 399
-        height: 250
+        width: 390
+        height: 241
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -668,6 +681,732 @@ TextureImporter:
       bones: []
       spriteID: 894312bc17cc85242b65645c1e7804a2
       internalID: -359910086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_3
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1474
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbb31ce9648eb640b4e1111a10f15f8
+      internalID: 1424253969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1347
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8d531a9e170e847bb1db0239e61506
+      internalID: -1800399551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_7
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1297
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a97a163a91e9e4caf037989b8dee4f
+      internalID: 1916327489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_8
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1297
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048d3816f69fde9449eb5c93a58f84b5
+      internalID: -488757574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_13
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1167
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e411b31e86ba1e84ca3591d369f4641d
+      internalID: 1829982484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_15
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1064
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d039682bce64d4e86d3b7c9d670cdb
+      internalID: 1956993750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_16
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1058
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5749d018f938f46bf7f4570b1c4f0c
+      internalID: 893901967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_17
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1033
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff6d7194a7e58f4a983754c2978e7fe
+      internalID: -461252317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_18
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 990
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d598bdaf9feef24487c421d92c3b82f
+      internalID: -420702674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_20
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 762
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aa72476ad63ad448b2182bfe488d77
+      internalID: 2012344766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_23
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 744
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d078c27e9a6412a4c975bd6d231b5edf
+      internalID: 1687518291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_26
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 682
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422cecd208c66d6439b6d134215ff183
+      internalID: -1279679331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 559
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b98330a52f09241a2ea5fb42bc15e5
+      internalID: 70410475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_29
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 559
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5686ea4ea5c92da45acf780524088f69
+      internalID: 1636342669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_33
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 559
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cb998aefd0956458e3b71d53543d1b
+      internalID: 144733561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 478
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef877786b3c8554b9734419cb7049f8
+      internalID: 364061447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_36
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 477
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031f668d32575e84097d2facd2033e9a
+      internalID: -1542609587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_37
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 491
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17c92b10717603408bd5dbfe7116ef5
+      internalID: -786530080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_38
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 451
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012f3d5c41e611c419661a4ff83f2989
+      internalID: -1508374129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_39
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 382
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87448eb3dce59c449a736d8af76b44b
+      internalID: -754325597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_40
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 382
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df045832175a0574486959b379344625
+      internalID: 1382710840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_41
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 382
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca03ecee82602ba408be18c19c806857
+      internalID: 2144220942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_43
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 231
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c178b3fb9beadb4a85a6cde94ea9f09
+      internalID: -1672031542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_46
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 252
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e2f35b16a97d947b1cc312aaf16a8d
+      internalID: -469881982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_49
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 253
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f299310aa985a345b9b9d33539c4e77
+      internalID: -958635471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_50
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 192
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33fdf050aa72224abcb05935c332d4c
+      internalID: 665706560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_51
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 196
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4a75082a5899849a6ea26ab29a07af
+      internalID: 1337516301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 148
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5f16fa7565cda42acf7f758efe94c7
+      internalID: 1149034983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_53
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 164
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451c3c9d7059cd2458691e6f01588e90
+      internalID: 101377801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_54
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 155
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e61db090cc6b0641a80221d1f007f72
+      internalID: -540043493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_55
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 75
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d097304282b676c4da66f69c1f4f366e
+      internalID: 1827839527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_56
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 75
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f51c27712aa3048a04c1f1f56ee281
+      internalID: -1267972261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola de fuego_57
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 40
+        width: 5
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d334e1cd002f8f5418056593c7bc424f
+      internalID: 18103077
       vertices: []
       indices: 
       edges: []
