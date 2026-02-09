@@ -37,3 +37,13 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: Targets-Huida_Lot
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4973830988543924716
+      m_GuidHigh: 15377804700630184347
+    m_SerializedTextureGuid:
+      m_GuidLow: 9044372461283913897
+      m_GuidHigh: 9561517875972108904
+    m_Size: {x: 0.4, y: 0.19912204}
+    m_SpecifySize: 1
+    m_Name: Targets-GrandesSuenos
+    m_Texture: {fileID: 0}
