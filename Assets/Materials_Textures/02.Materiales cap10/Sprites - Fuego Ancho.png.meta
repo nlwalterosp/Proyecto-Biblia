@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: 2e8d4dad8e48a514082f08f4e15a23e5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprites - Fuego Ancho_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 400
+        width: 194
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ff486476cff5341924e75e903c0386
+      internalID: 1557828957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - Fuego Ancho_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 400
+        width: 196
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281eedcc8722d774ca271657cd3f2232
+      internalID: 1969973250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - Fuego Ancho_12
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 398
+        width: 196
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5842c959705e7fa4ebcf43a02b7196dc
+      internalID: 318054082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - Fuego Ancho_18
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 399
+        width: 200
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cb0332bed0b4041a20da15562331a0
+      internalID: 1633580136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - Fuego Ancho_20
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 400
+        width: 196
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92f39445e1a31543927dbf0c43f32dd
+      internalID: -1733223736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - Fuego Ancho_22
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 400
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b2f89e1320deb4b9fc34d660e644da
+      internalID: 874257534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - Fuego Ancho_38
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 72
+        width: 190
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb1a2dcbd2a59642901df0e0f5438f0
+      internalID: -646046727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - Fuego Ancho_41
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 73
+        width: 200
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bc17b83ca50254b99fee586d7aa1fa
+      internalID: -1762543406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - Fuego Ancho_50
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 72
+        width: 201
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d53186d6537cf40959f5d2e27c4416
+      internalID: -233430827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - Fuego Ancho_51
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 72
+        width: 201
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359d8a35338fb0e448bb9b9343cd2018
+      internalID: -537555900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - Fuego Ancho_53
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 72
+        width: 191
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e044333027f4242a812bc690e5511c
+      internalID: 1093668185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - Fuego Ancho_54
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 72
+        width: 191
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e618e7d1b4cbaab4e8b2bf588c11f838
+      internalID: -509781373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 43d858f225fc267458e32a0965df3880
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Sprites - Fuego Ancho_0: 1378597813
+      Sprites - Fuego Ancho_1: 1544764850
+      Sprites - Fuego Ancho_10: 1528875581
+      Sprites - Fuego Ancho_11: 1696516567
+      Sprites - Fuego Ancho_12: 318054082
+      Sprites - Fuego Ancho_13: 1030148079
+      Sprites - Fuego Ancho_14: -973383659
+      Sprites - Fuego Ancho_15: 2097476883
+      Sprites - Fuego Ancho_16: 2113815137
+      Sprites - Fuego Ancho_17: -1636340882
+      Sprites - Fuego Ancho_18: 1633580136
+      Sprites - Fuego Ancho_19: -1097706458
+      Sprites - Fuego Ancho_2: -324643606
+      Sprites - Fuego Ancho_20: -1733223736
+      Sprites - Fuego Ancho_21: -2048728477
+      Sprites - Fuego Ancho_22: 874257534
+      Sprites - Fuego Ancho_23: 540296947
+      Sprites - Fuego Ancho_24: -486495421
+      Sprites - Fuego Ancho_25: -1542005822
+      Sprites - Fuego Ancho_26: 859598137
+      Sprites - Fuego Ancho_27: 1242814022
+      Sprites - Fuego Ancho_28: 727173132
+      Sprites - Fuego Ancho_29: -390152526
+      Sprites - Fuego Ancho_3: 1557828957
+      Sprites - Fuego Ancho_30: 723897211
+      Sprites - Fuego Ancho_31: 1756392833
+      Sprites - Fuego Ancho_32: -872498117
+      Sprites - Fuego Ancho_33: -719915600
+      Sprites - Fuego Ancho_34: -690404666
+      Sprites - Fuego Ancho_35: 232115098
+      Sprites - Fuego Ancho_36: 1107484513
+      Sprites - Fuego Ancho_37: -1392761813
+      Sprites - Fuego Ancho_38: -646046727
+      Sprites - Fuego Ancho_39: -431977820
+      Sprites - Fuego Ancho_4: -923918083
+      Sprites - Fuego Ancho_40: -1561478832
+      Sprites - Fuego Ancho_41: -1762543406
+      Sprites - Fuego Ancho_42: -1864844813
+      Sprites - Fuego Ancho_43: 127171979
+      Sprites - Fuego Ancho_44: -1342152311
+      Sprites - Fuego Ancho_45: 971544801
+      Sprites - Fuego Ancho_46: -1573048092
+      Sprites - Fuego Ancho_47: -603063465
+      Sprites - Fuego Ancho_48: -607961121
+      Sprites - Fuego Ancho_49: -1028934847
+      Sprites - Fuego Ancho_5: 1969973250
+      Sprites - Fuego Ancho_50: -233430827
+      Sprites - Fuego Ancho_51: -537555900
+      Sprites - Fuego Ancho_52: -68986359
+      Sprites - Fuego Ancho_53: 1093668185
+      Sprites - Fuego Ancho_54: -509781373
+      Sprites - Fuego Ancho_6: -1375390243
+      Sprites - Fuego Ancho_7: -1110893501
+      Sprites - Fuego Ancho_8: -517251232
+      Sprites - Fuego Ancho_9: -874151707
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
