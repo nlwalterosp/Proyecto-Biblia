@@ -9,7 +9,7 @@ public class Meteoro : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        speedFall = Random.Range(3, 5);
+        speedFall = Random.Range(1, 2);
 
         transform.Translate(diretion * speedFall * Time.deltaTime);
     }

@@ -49,4 +49,4 @@ MonoBehaviour:
   spawnRangeX: 5
   spawnPosY: 0
   startDalay: 1
-  spawnInterval: 0.5
+  spawnInterval: 1
