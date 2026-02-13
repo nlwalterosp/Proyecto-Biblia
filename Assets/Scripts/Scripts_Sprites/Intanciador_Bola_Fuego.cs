@@ -1,27 +1,48 @@
+﻿using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
-public class Intanciador_Bola_Fuego : MonoBehaviour
+public class Instanciador_Bola_Fuego : MonoBehaviour
 {
-    // Este ccodigo sirve para intanciar la bola de fuego en el escenario
-    [SerializeField] GameObject Bolafuego;
-    [SerializeField] Transform Posicioninicial;
-    public float velocidad_Bola;
+    [SerializeField] GameObject bolaFuego;
+    [SerializeField] float tiempoEntreRafagas = 1f;
 
+    // 👇 ESTO ES NUEVO - PON AQUÍ TUS COORDENADAS MANUALMENTE
+    [SerializeField] float posX = 1.5f;
+    [SerializeField] float posY = 0.5f;
+    [SerializeField] float posZ = -2.4f;
+
+    [SerializeField] int meteorosPorRafaga = 5;
+    [SerializeField] float radioDeDispersion = 1f;
+    [SerializeField] float alturaMinima = 0.5f;
+    [SerializeField] float alturaMaxima = 2f;
 
     void Start()
     {
-        InvokeRepeating("IntanciaBolaFuego",1f,4f);
+        InvokeRepeating("InstanciarRafagaMeteoros", 0, tiempoEntreRafagas);
     }
 
-    // Update is called once per frame
-    void Update()
+    void InstanciarRafagaMeteoros()
     {
-        
+        for (int i = 0; i < meteorosPorRafaga; i++)
+        {
+            InstanciarUnMeteoro();
+        }
     }
-    void IntanciaBolaFuego()
-    {
 
-        Vector3 posicionX = new Vector3(Random.Range(0.1f,0.5f), Posicioninicial.transform.position.y, Posicioninicial.transform.position.z);
-        Instantiate(Bolafuego, posicionX, Bolafuego.transform.rotation);
+    void InstanciarUnMeteoro()
+    {
+        // 👇 POSICIÓN FIJA - CAMBIA ESTOS NÚMEROS A TU GUSTO
+        Vector3 posicionBase = new Vector3(posX, posY, posZ);
+
+        Vector2 circuloAleatorio = Random.insideUnitCircle * radioDeDispersion;
+
+        Vector3 posicionFinal = new Vector3(
+            posicionBase.x + circuloAleatorio.x,
+            posicionBase.y + Random.Range(alturaMinima, alturaMaxima),
+            posicionBase.z + circuloAleatorio.y
+        );
+
+        Instantiate(bolaFuego, posicionFinal, Quaternion.identity);
     }
 }

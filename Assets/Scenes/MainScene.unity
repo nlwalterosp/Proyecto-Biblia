@@ -129,7 +129,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1512550804123550302, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.3146
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1512550804123550302, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
       propertyPath: m_LocalPosition.y
@@ -137,7 +137,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1512550804123550302, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2.39566
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1512550804123550302, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
       propertyPath: m_LocalRotation.w
@@ -170,6 +170,10 @@ PrefabInstance:
     - target: {fileID: 4203445445091124752, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
       propertyPath: m_Name
       value: Contenedor_Tomo1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4203445445091124752, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6974703409744361374, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
       propertyPath: imageManager
@@ -480,7 +484,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &392828196
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -595,7 +599,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1131819851
 MonoBehaviour:
   m_ObjectHideFlags: 0
