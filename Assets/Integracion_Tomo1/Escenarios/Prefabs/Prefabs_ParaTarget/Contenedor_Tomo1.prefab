@@ -3329,15 +3329,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 6058701201942036533, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
       insertIndex: -1
       addedObject: {fileID: 5916325746129711544}
-    - targetCorrespondingSourceObject: {fileID: 6058701201942036533, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 6771694262189558040}
-    - targetCorrespondingSourceObject: {fileID: 6058701201942036533, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 4312840419263692208}
-    - targetCorrespondingSourceObject: {fileID: 6058701201942036533, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1089283743143306892}
   m_SourcePrefab: {fileID: 100100000, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
 --- !u!1 &4392935306287881527 stripped
 GameObject:
@@ -3371,51 +3362,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!65 &6771694262189558040
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4392935306287881527}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 1
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.0076034865, y: 0.0062157833, z: 0.0001568838}
-  m_Center: {x: 0.00000994727, y: -0.0000000017834638, z: 0.00007844196}
---- !u!114 &4312840419263692208
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4392935306287881527}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1a7dbd8572affb54cb990cd9f5614dfa, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Tigger_Suelo
---- !u!114 &1089283743143306892
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4392935306287881527}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: acb59f67763c54740b4793c76f4da2a6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Destruir_Meteoro
 --- !u!4 &5026256972177058313 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3252401370053146379, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
