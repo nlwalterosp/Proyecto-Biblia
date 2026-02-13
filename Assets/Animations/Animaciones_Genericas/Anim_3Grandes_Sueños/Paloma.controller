@@ -10,8 +10,8 @@ AnimatorStateMachine:
   m_Name: Base Layer
   m_ChildStates:
   - serializedVersion: 1
-    m_State: {fileID: -8604612571803398812}
-    m_Position: {x: 220, y: 230, z: 0}
+    m_State: {fileID: -1059578329951664628}
+    m_Position: {x: 232.62479, y: 287.11725, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -21,15 +21,15 @@ AnimatorStateMachine:
   m_EntryPosition: {x: 50, y: 120, z: 0}
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
-  m_DefaultState: {fileID: -8604612571803398812}
---- !u!1102 &-8604612571803398812
+  m_DefaultState: {fileID: -1059578329951664628}
+--- !u!1102 &-1059578329951664628
 AnimatorState:
   serializedVersion: 6
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: "Planeta peque\xF1o naranja Grandes Sue\xF1os 4"
+  m_Name: "Paloma Grandes Sue\xF1os 5"
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -42,7 +42,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: c0079e026f4693648a676a2472b5902f, type: 2}
+  m_Motion: {fileID: 7400000, guid: a50ebc5f109895d489d7b123581f6f41, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -54,7 +54,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: "PropsPlaneta_Peque\xF1o Naranja  Sue\xF1os 4"
+  m_Name: Paloma
   serializedVersion: 5
   m_AnimatorParameters: []
   m_AnimatorLayers:
