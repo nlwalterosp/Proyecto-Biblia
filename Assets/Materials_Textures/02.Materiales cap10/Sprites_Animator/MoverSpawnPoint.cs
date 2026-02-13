@@ -3,7 +3,7 @@ using UnityEngine;
 public class MoverSpawnPoint : MonoBehaviour
 {
     public float rangoX = 1f;
-    public float velocidad = 1f;
+    public float velocidad = 0f;
 
     private Vector3 posicionInicial;
 
