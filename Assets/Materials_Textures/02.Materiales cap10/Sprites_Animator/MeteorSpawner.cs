@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class MeteorSpawner : MonoBehaviour
 {
@@ -10,6 +10,14 @@ public class MeteorSpawner : MonoBehaviour
 
     public float startDalay;
     public float spawnInterval;
+    public BoxCollider areaSpawn;
+    public float margen = 0.05f; // Ajusta este valor (en metros AR suele ser pequeño)
+
+    public LayerMask layerPersonajes;   // Layer de los personajes
+    public float radioChequeo = 0.05f;  // Qué tan cerca consideramos "encima"
+    public int intentosMaximos = 10;    // Para no quedarse en bucle infinito
+
+
 
 
     void Start()
@@ -24,10 +32,52 @@ public class MeteorSpawner : MonoBehaviour
 
     void SpawnRandomAnimals()
     {
-        // Genera el random de la del spawn de los meteoros
-        Vector3 spawnPos = new Vector3(Random.Range(minSpawnRangeX, maxSpawnRangeX), spawnPosY, Random.Range(-spawnRangeZ, spawnRangeZ));
+        if (areaSpawn == null) return;
 
-        // Instacia los meteoros
-        Instantiate(meteoroPrefabs, spawnPos, meteoroPrefabs.transform.rotation);
+        Bounds b = areaSpawn.bounds;
+
+        int intentos = 0;
+
+        while (intentos < intentosMaximos)
+        {
+            intentos++;
+
+            Vector3 spawnPos = new Vector3(
+                Random.Range(b.min.x + margen, b.max.x - margen),
+                b.max.y + 0.02f,
+                Random.Range(b.min.z + margen, b.max.z - margen)
+            );
+
+            // 🔍 Revisar si hay un personaje cerca
+            bool hayPersonaje = Physics.CheckSphere(spawnPos, radioChequeo, layerPersonajes);
+
+            if (!hayPersonaje)
+            {
+                Instantiate(meteoroPrefabs, spawnPos, meteoroPrefabs.transform.rotation);
+                break; // Ya instanciamos bien, salimos
+            }
+        }
+    }
+    // para ver el Gizmo
+    void OnDrawGizmos()
+    {
+
+        if (areaSpawn == null) return;
+
+        Gizmos.color = Color.green;
+        Bounds b = areaSpawn.bounds;
+
+        // Área total
+        Gizmos.DrawWireCube(b.center, b.size);
+
+        // Área con margen (la segura)
+        Gizmos.color = Color.yellow;
+        Vector3 sizeConMargen = new Vector3(
+            b.size.x - margen * 2f,
+            b.size.y,
+            b.size.z - margen * 2f
+        );
+
+        Gizmos.DrawWireCube(b.center, sizeConMargen);
     }
 }
