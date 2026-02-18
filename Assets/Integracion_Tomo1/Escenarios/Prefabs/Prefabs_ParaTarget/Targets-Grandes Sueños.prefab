@@ -1538,19 +1538,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1447014743849450774, guid: 87b03c510359e5643a4283ddc2150b93, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.21517786
+      value: -0.43647143
       objectReference: {fileID: 0}
     - target: {fileID: 1447014743849450774, guid: 87b03c510359e5643a4283ddc2150b93, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.2151778
+      value: 0.43647125
       objectReference: {fileID: 0}
     - target: {fileID: 1447014743849450774, guid: 87b03c510359e5643a4283ddc2150b93, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.6735715
+      value: -0.55632085
       objectReference: {fileID: 0}
     - target: {fileID: 1447014743849450774, guid: 87b03c510359e5643a4283ddc2150b93, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.67357147
+      value: -0.55632067
       objectReference: {fileID: 0}
     - target: {fileID: 1447014743849450774, guid: 87b03c510359e5643a4283ddc2150b93, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1558,7 +1558,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1447014743849450774, guid: 87b03c510359e5643a4283ddc2150b93, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: -215.433
+      value: -256.233
       objectReference: {fileID: 0}
     - target: {fileID: 2112033985451808268, guid: 87b03c510359e5643a4283ddc2150b93, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1708,6 +1708,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6626861894671971007, guid: 87b03c510359e5643a4283ddc2150b93, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0c8a5717f5f420f4094d6f4a8d077d61, type: 2}
     - target: {fileID: 6757888727229166379, guid: 87b03c510359e5643a4283ddc2150b93, type: 3}
       propertyPath: m_Name
       value: "3. Grandes Sue\xF1os"
