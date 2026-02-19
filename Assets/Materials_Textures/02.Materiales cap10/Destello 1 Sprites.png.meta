@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: 6c8aca0f565312e42b270f8c2792d574
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Destello 1 Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 583
+        width: 93
+        height: 88
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febaa7c957b648d4192dcc638ed7e954
+      internalID: -255348629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destello 1 Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 510
+        width: 153
+        height: 218
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17eeb3316dec2094597f77da57ad84a7
+      internalID: -1379842617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destello 1 Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 503
+        width: 283
+        height: 229
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f666a6f73e313ee48b68b900786fefb9
+      internalID: 706987167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destello 1 Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 488
+        width: 316
+        height: 294
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfd18dba26b3dd4fa3b3a12ae490234
+      internalID: 1325122880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destello 1 Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 466
+        width: 356
+        height: 326
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a581dbc4c10c08b41a335a4f770ae59d
+      internalID: 1536784988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destello 1 Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 613
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c22014afb369384dbdd378ef6cc096b
+      internalID: -21256338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destello 1 Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 85
+        width: 368
+        height: 292
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fc97cd30a69fc4688fa5b954b1b3e2
+      internalID: 302002903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destello 1 Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 83
+        width: 370
+        height: 294
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f865c83fef31074449428b0409a02c2e
+      internalID: 867460281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destello 1 Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 67
+        width: 382
+        height: 310
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e504c064023171b419b3b6e329733566
+      internalID: 785519905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destello 1 Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 78
+        width: 360
+        height: 269
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123f390f81f72534ebf8f06c747574a7
+      internalID: 470937220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destello 1 Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 81
+        width: 367
+        height: 288
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0876244defa137749af0f33b66b89823
+      internalID: -1580891803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destello 1 Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 83
+        width: 354
+        height: 282
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77400ba38231ae4ea463d71f619a7ce
+      internalID: -1853684136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fa9ae0f62fc2a7a4eb864c9cc4bf37ab
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Destello 1 Sprites_0: -255348629
+      Destello 1 Sprites_1: -1379842617
+      Destello 1 Sprites_10: -564701791
+      Destello 1 Sprites_11: 575800258
+      Destello 1 Sprites_12: -1235548524
+      Destello 1 Sprites_13: -2061578781
+      Destello 1 Sprites_14: -1734942608
+      Destello 1 Sprites_15: 302002903
+      Destello 1 Sprites_16: 867460281
+      Destello 1 Sprites_17: 785519905
+      Destello 1 Sprites_18: 470937220
+      Destello 1 Sprites_19: -1580891803
+      Destello 1 Sprites_2: 706987167
+      Destello 1 Sprites_20: -1853684136
+      Destello 1 Sprites_21: 1429298210
+      Destello 1 Sprites_22: -445860771
+      Destello 1 Sprites_23: -168109384
+      Destello 1 Sprites_24: -12768448
+      Destello 1 Sprites_25: -19845861
+      Destello 1 Sprites_26: -907962010
+      Destello 1 Sprites_27: -1428411915
+      Destello 1 Sprites_28: -209320678
+      Destello 1 Sprites_29: -843550157
+      Destello 1 Sprites_3: 1325122880
+      Destello 1 Sprites_30: -115933466
+      Destello 1 Sprites_31: -520002084
+      Destello 1 Sprites_32: -446523863
+      Destello 1 Sprites_33: 131968199
+      Destello 1 Sprites_34: -701220213
+      Destello 1 Sprites_35: 279777704
+      Destello 1 Sprites_36: -999865750
+      Destello 1 Sprites_37: -399097326
+      Destello 1 Sprites_38: 1352577126
+      Destello 1 Sprites_39: 894977606
+      Destello 1 Sprites_4: 960319259
+      Destello 1 Sprites_40: -27379322
+      Destello 1 Sprites_41: 600986175
+      Destello 1 Sprites_42: -861345780
+      Destello 1 Sprites_43: -973276200
+      Destello 1 Sprites_44: 362560849
+      Destello 1 Sprites_45: 1182599126
+      Destello 1 Sprites_46: 2024187203
+      Destello 1 Sprites_47: 165119320
+      Destello 1 Sprites_48: -460481408
+      Destello 1 Sprites_49: 401100863
+      Destello 1 Sprites_5: -1046286879
+      Destello 1 Sprites_50: 153836575
+      Destello 1 Sprites_51: 1557883454
+      Destello 1 Sprites_52: -1190377716
+      Destello 1 Sprites_53: -1712003320
+      Destello 1 Sprites_54: 1904289906
+      Destello 1 Sprites_55: -823924596
+      Destello 1 Sprites_56: -996843821
+      Destello 1 Sprites_57: -1827502115
+      Destello 1 Sprites_58: -990023841
+      Destello 1 Sprites_59: 151467715
+      Destello 1 Sprites_6: 1536784988
+      Destello 1 Sprites_60: -1771469328
+      Destello 1 Sprites_61: 1725144948
+      Destello 1 Sprites_62: 1723709011
+      Destello 1 Sprites_63: 663150449
+      Destello 1 Sprites_64: 884990215
+      Destello 1 Sprites_7: -1523244504
+      Destello 1 Sprites_8: -1527911211
+      Destello 1 Sprites_9: -21256338
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
