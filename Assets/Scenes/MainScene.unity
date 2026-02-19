@@ -171,6 +171,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Contenedor_Tomo1
       objectReference: {fileID: 0}
+    - target: {fileID: 4203445445091124752, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6974703409744361374, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
       propertyPath: imageManager
       value: 
@@ -186,7 +190,16 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 764168409154572630, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1145840836}
+    - targetCorrespondingSourceObject: {fileID: 764168409154572630, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1145840839}
+    - targetCorrespondingSourceObject: {fileID: 3391344031485572117, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1399798481}
   m_SourcePrefab: {fileID: 100100000, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
 --- !u!1 &243099649
 GameObject:
@@ -638,6 +651,64 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1145840834 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 764168409154572630, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
+  m_PrefabInstance: {fileID: 207566298}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1145840836
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1145840834}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 06c46d159fc3a4c4992e8d12bd40a020, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1145840839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1145840834}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 639373f866098a94492368717b85fac2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlanetaController
+  animatorPlaneta: {fileID: 1145840836}
+--- !u!1 &1399798478 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3391344031485572117, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
+  m_PrefabInstance: {fileID: 207566298}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1399798481
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1399798478}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02f5d47fd301fe84aa960f9f8d4212ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NinoEventos
+  planeta: {fileID: 1145840839}
 --- !u!1 &1788420618
 GameObject:
   m_ObjectHideFlags: 0
