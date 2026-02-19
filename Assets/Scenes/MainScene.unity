@@ -175,6 +175,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5041069305758603690, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.96640515
+      objectReference: {fileID: 0}
+    - target: {fileID: 5041069305758603690, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000006467075
+      objectReference: {fileID: 0}
+    - target: {fileID: 5041069305758603690, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.2570238
+      objectReference: {fileID: 0}
+    - target: {fileID: 5041069305758603690, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.00000002508565
+      objectReference: {fileID: 0}
     - target: {fileID: 6974703409744361374, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
       propertyPath: imageManager
       value: 
@@ -183,6 +199,14 @@ PrefabInstance:
       propertyPath: imageManager
       value: 
       objectReference: {fileID: 392828196}
+    - target: {fileID: 8434079323739541722, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
+      propertyPath: m_ObjectUpAxis
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8434079323739541722, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
+      propertyPath: m_ObjectForwardAxis
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 8817562305995344710, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
       propertyPath: imageManager
       value: 
