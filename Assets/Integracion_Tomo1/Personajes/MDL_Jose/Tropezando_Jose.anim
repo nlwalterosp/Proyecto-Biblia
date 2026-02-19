@@ -112354,7 +112354,7 @@ AnimationClip:
   - time: 1.0416666
     functionName: DispararPlaneta
     data: 
-    objectReferenceParameter: {fileID: 0}
+    objectReferenceParameter: {fileID: 6213232858720789863, guid: 2558935cc557d6b42ad7a29082f55637, type: 3}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
