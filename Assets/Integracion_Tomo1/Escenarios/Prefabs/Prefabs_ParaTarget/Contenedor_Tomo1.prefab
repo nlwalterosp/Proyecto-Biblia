@@ -1854,9 +1854,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2410562565972541555, guid: 1eb083603b90afb4a8977972933b8df8, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1575053529917713438}
-    - targetCorrespondingSourceObject: {fileID: 6927626344517026859, guid: 1eb083603b90afb4a8977972933b8df8, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 2201124621042937128}
     - targetCorrespondingSourceObject: {fileID: 4353804850859218400, guid: 1eb083603b90afb4a8977972933b8df8, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1118025229880722295}
@@ -2277,34 +2274,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!1 &8594793761224971843 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6927626344517026859, guid: 1eb083603b90afb4a8977972933b8df8, type: 3}
-  m_PrefabInstance: {fileID: 1685762533452780136}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &2201124621042937128
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8594793761224971843}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 29a074d529cf945029ef7cf40540c9df, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Unity.Splines::UnityEngine.Splines.SplineAnimate
-  m_Target: {fileID: 7321300433377559101}
-  m_PlayOnAwake: 1
-  m_LoopMode: 1
-  m_Method: 1
-  m_Duration: 29.997715
-  m_MaxSpeed: 0.05
-  m_EasingMode: 0
-  m_AlignmentMode: 1
-  m_ObjectForwardAxis: 2
-  m_ObjectUpAxis: 1
-  m_StartOffset: 0
 --- !u!1 &8969314653757322996 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7718149621787436188, guid: 1eb083603b90afb4a8977972933b8df8, type: 3}
