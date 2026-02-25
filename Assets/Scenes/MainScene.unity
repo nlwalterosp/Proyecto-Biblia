@@ -127,10 +127,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1118025229880722295, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1512550804123550302, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -171,37 +167,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2201124621042937128, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_Target
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 2943141326908353749, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.067462415
-      objectReference: {fileID: 0}
-    - target: {fileID: 2943141326908353749, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.2449616
-      objectReference: {fileID: 0}
-    - target: {fileID: 2943141326908353749, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.1858524
-      objectReference: {fileID: 0}
     - target: {fileID: 4203445445091124752, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
       propertyPath: m_Name
       value: Contenedor_Tomo1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5349617931392250752, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 28.161076
-      objectReference: {fileID: 0}
-    - target: {fileID: 5349617931392250752, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.66030324
-      objectReference: {fileID: 0}
-    - target: {fileID: 5349617931392250752, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 2.0331507
       objectReference: {fileID: 0}
     - target: {fileID: 6974703409744361374, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
       propertyPath: imageManager
@@ -211,22 +179,14 @@ PrefabInstance:
       propertyPath: imageManager
       value: 
       objectReference: {fileID: 392828196}
-    - target: {fileID: 8068286891549875512, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.012198865
-      objectReference: {fileID: 0}
     - target: {fileID: 8817562305995344710, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
       propertyPath: imageManager
       value: 
       objectReference: {fileID: 392828196}
     m_RemovedComponents: []
-    m_RemovedGameObjects:
-    - {fileID: 8217437191024830795, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
+    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 3102657326852310920, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 449786607}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
 --- !u!1 &243099649
 GameObject:
@@ -585,33 +545,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ImageTargetVisibility
   imageManager: {fileID: 392828196}
---- !u!1 &449786602 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3102657326852310920, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-  m_PrefabInstance: {fileID: 207566298}
-  m_PrefabAsset: {fileID: 0}
---- !u!95 &449786607
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 449786602}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 242d48fe99d4ce84db72fa6dc152cdb8, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1107259528
 GameObject:
   m_ObjectHideFlags: 0
