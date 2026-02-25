@@ -27,11 +27,11 @@ Transform:
   m_GameObject: {fileID: 438649432210454461}
   serializedVersion: 2
   m_LocalRotation: {x: -0.52313775, y: 0.0127641475, z: -0.19351088, w: 0.82989013}
-  m_LocalPosition: {x: 54.45, y: 2.44, z: 8.63}
+  m_LocalPosition: {x: 54.45, y: 2.4400005, z: 8.63}
   m_LocalScale: {x: 100, y: 100, z: 100}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 3124602812408284195}
+  m_Father: {fileID: 6732630507163856381}
   m_LocalEulerAnglesHint: {x: -59.695, y: 26.31, z: -41.528}
 --- !u!33 &4135843060161081235
 MeshFilter:
@@ -394,7 +394,7 @@ Transform:
   - {fileID: 6322723274662340380}
   - {fileID: 3011179671598728579}
   - {fileID: 5279639343451076700}
-  - {fileID: 7093310432435187736}
+  - {fileID: 6732630507163856381}
   - {fileID: 1396818197770374367}
   - {fileID: 1410434019417805488}
   - {fileID: 8711456149948629101}
@@ -432,6 +432,38 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 5163487145113679681}
+  m_Father: {fileID: 3124602812408284195}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3028466053837643090
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6732630507163856381}
+  m_Layer: 0
+  m_Name: MDL_Planeta_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6732630507163856381
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3028466053837643090}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7093310432435187736}
   m_Father: {fileID: 3124602812408284195}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &3915306814268795442
