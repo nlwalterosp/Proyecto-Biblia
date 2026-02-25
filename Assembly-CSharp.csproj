@@ -87,6 +87,9 @@
     <None Include="Assets\Settings\NewUnlitUniversalRenderPipelineShader.shader" />
     <None Include="Assets\Materials_Textures\Materiales URP_Lit Cartoon\Codigo_Shaders\UnlitTarasparente.shader" />
     <None Include="Assets\Materials_Textures\Materiales URP_Lit Cartoon\Codigo_Shaders\UnlitToom_doblecara.shader" />
+    <None Include="Assets\Materials_Textures\Materiales URP_Lit Cartoon\Codigo_Shaders\NewUnlitUniversalRenderPipelineShader.shader" />
+    <None Include="Assets\Models\Shaders\Water\Water_Cartoon_Lite.shader" />
+    <None Include="Assets\Materials_Textures\Materiales URP_Lit Cartoon\Codigo_Shaders\Agua.shader" />
     <None Include="Assets\Materials_Textures\Materiales URP_Lit Cartoon\Codigo_Shaders\CustomStylizedFire_Light.shader" />
   </ItemGroup>
   <ItemGroup>
