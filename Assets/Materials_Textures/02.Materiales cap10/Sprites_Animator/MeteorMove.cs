@@ -3,17 +3,17 @@ using UnityEngine;
 public class MeteorMove : MonoBehaviour
 {
     public float speedFall;
-    public Vector3 diretion;
-
+    public Vector3 direction;
     public GameObject explosion;
 
+    void Start()
+    {
+        speedFall = Random.Range(0.2f, 0.4f); // ajusta aquí
+    }
 
-    // Update is called once per frame
     void Update()
     {
-        speedFall = Random.Range(3, 5);
-
-        transform.Translate(diretion * speedFall * Time.deltaTime);
+        transform.Translate(direction * speedFall * Time.deltaTime);
     }
 }
 
