@@ -1087,7 +1087,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 225452415349926103, guid: 1eb083603b90afb4a8977972933b8df8, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1222710369720952131, guid: 1eb083603b90afb4a8977972933b8df8, type: 3}
       propertyPath: m_IsActive
@@ -1684,7 +1684,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlanetaController
   animatorPlaneta: {fileID: 1250512736619620353}
-  nino: {fileID: 1592951714045904753}
 --- !u!1 &1460854928551590591 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 225452415349926103, guid: 1eb083603b90afb4a8977972933b8df8, type: 3}
@@ -1752,11 +1751,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!95 &2661191447863127399 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 3714198184813002511, guid: 1eb083603b90afb4a8977972933b8df8, type: 3}
-  m_PrefabInstance: {fileID: 1685762533452780136}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2992732898319302648 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4534380048608652688, guid: 1eb083603b90afb4a8977972933b8df8, type: 3}
@@ -1852,7 +1846,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NinoEventos
   planeta: {fileID: 3150788390597909323}
-  animatorNino: {fileID: 2661191447863127399}
 --- !u!1 &3895897310801449499 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2410562565972541555, guid: 1eb083603b90afb4a8977972933b8df8, type: 3}
@@ -2288,6 +2281,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 11.407697
       objectReference: {fileID: 0}
+    - target: {fileID: 717698386474956436, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
+      propertyPath: intentosMaximos
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 1102913201176514247, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -1.2372625
@@ -2462,7 +2459,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2249068110237731351, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2256045638145284040, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
