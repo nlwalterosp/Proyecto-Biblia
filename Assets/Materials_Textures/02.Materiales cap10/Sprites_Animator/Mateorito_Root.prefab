@@ -128,7 +128,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MeteorMove
   speedFall: 0
-  diretion: {x: 0, y: 0, z: 0}
+  direction: {x: 0, y: 0, z: 0}
   explosion: {fileID: 0}
 --- !u!1 &5930203317863511794
 GameObject:
@@ -198,8 +198,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 532f8b80e9daf1c43942ca7298c6fdf3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MeteorMove
-  speedFall: 0.2
-  diretion: {x: -0.08, y: -0.1, z: 0}
+  speedFall: 0.3
+  direction: {x: -0.08, y: -0.1, z: 0}
   explosion: {fileID: 7509090090628807270, guid: ffd35d7c8a7f0604a82c86f48cbc1ba3, type: 3}
 --- !u!114 &4061144425773471539
 MonoBehaviour:
@@ -213,4 +213,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: acb59f67763c54740b4793c76f4da2a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Destruir_Meteoro
-  animExplosion: {fileID: 7509090090628807270, guid: ffd35d7c8a7f0604a82c86f48cbc1ba3, type: 3}
+  animExplosion: {fileID: 6052502745040982211, guid: 48184a51e01396d4691f18daa64670d6, type: 3}
