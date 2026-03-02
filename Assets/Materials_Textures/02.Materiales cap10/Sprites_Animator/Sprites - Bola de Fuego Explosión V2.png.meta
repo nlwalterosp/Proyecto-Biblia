@@ -1,0 +1,1330 @@
+fileFormatVersion: 2
+guid: 5000a237414de2f45a2f69c08f5cd9ce
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_1"
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2896
+        width: 356
+        height: 268
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e87f27bfe87ee439b1ba619a950bc9
+      internalID: 1178560978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_2"
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2896
+        width: 383
+        height: 268
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4798a8e973c4e4c8e11ef7b64ee94d
+      internalID: -1392382993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_3"
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2906
+        width: 405
+        height: 258
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a7fc8461a3395458fac7ca2ae37aa1
+      internalID: 1003489664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_4"
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 2896
+        width: 318
+        height: 268
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fde7316ad095f4d978da9ce7af77f4
+      internalID: 482331653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_5"
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 2896
+        width: 333
+        height: 268
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1fc24eb59793b49b6f7d574b5c4b68
+      internalID: -342157576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_7"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2601
+        width: 338
+        height: 222
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dafdebbb83e58c48bab8c98a7c0452f
+      internalID: -1281007156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_8"
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2594
+        width: 352
+        height: 249
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8861f6502d04b40a81949f01b74fa4
+      internalID: -1465609441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_9"
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 2613
+        width: 360
+        height: 244
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd6494609286094c83867d9a11dbf5d
+      internalID: -357415549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_10"
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 2595
+        width: 392
+        height: 257
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0061446b3ecc074496bfd77268bd64f
+      internalID: -2075049198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_12"
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 2613
+        width: 365
+        height: 239
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9932549a3f315b44e857395a365eb9e0
+      internalID: -1420388973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_18"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2294
+        width: 338
+        height: 249
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e7e08f90a57184f8614f11778d622b
+      internalID: -842984894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_20"
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2289
+        width: 415
+        height: 258
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5229eda90e3e33e489ef627542f81617
+      internalID: -75568587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_22"
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 2292
+        width: 369
+        height: 230
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba63177b60ad684a9f368e479ae5ac4
+      internalID: 440807128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_23"
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 2292
+        width: 402
+        height: 230
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f8cf87cae739340a19c3774e9a99e6
+      internalID: -430067040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_25"
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 2283
+        width: 347
+        height: 248
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c280f074a27ba43a25b0cd8be5e525
+      internalID: -985821574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_29"
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1990
+        width: 384
+        height: 258
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803cfd3261f72374ba551560ee459a05
+      internalID: -328799481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_31"
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1990
+        width: 364
+        height: 249
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c47bea52b742148be5bf6f2cc04fc3
+      internalID: -2068677157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_32"
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1981
+        width: 347
+        height: 257
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8b12df964493147a7ccfd65d464bba
+      internalID: 33049732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_33"
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1990
+        width: 357
+        height: 229
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf893d0a1c96104c973e87c32665013
+      internalID: -1423367028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_34"
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1990
+        width: 373
+        height: 258
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfb36c1bae173b4cb32a9e2ec39d2dc
+      internalID: 1354003507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_37"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1688
+        width: 371
+        height: 249
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1340de4d27ffa0d4d83a202b6f8abf0c
+      internalID: -1393035776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_38"
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1687
+        width: 350
+        height: 220
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f871a0134e8844eb4dd7c7cd0aca38
+      internalID: 1258969174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_39"
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1687
+        width: 347
+        height: 220
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac782d9b63a7bad4dbaf8fa8f1d9b1dd
+      internalID: 1798847514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_40"
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1688
+        width: 378
+        height: 249
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afe8a3fff2c5624993c9c920c7c1a85
+      internalID: 1701349133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_41"
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1688
+        width: 368
+        height: 219
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b055cb01e81ed6488d8e233414d8168
+      internalID: -1508539601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_52"
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1289
+        width: 220
+        height: 356
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a2cbd27c16c724aaea51cdf0321677
+      internalID: -2100029024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_55"
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1260
+        width: 276
+        height: 394
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de31d5a43535eb47a7303651df98d95
+      internalID: -535173370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_56"
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1266
+        width: 271
+        height: 376
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3582a481d5893848957ca1980e0a202
+      internalID: 1076355071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_63"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1362
+        width: 154
+        height: 210
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c585e76f3544ef4db5b2298b3e1dba4
+      internalID: -1493892124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_64"
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1279
+        width: 250
+        height: 374
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7313b78c441b844babc25263abe601f
+      internalID: -813617590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_88"
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 882
+        width: 277
+        height: 347
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5888a2d60045b418f5ad8d517f293a
+      internalID: -176991155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_89"
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 883
+        width: 272
+        height: 321
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02baf6d8eb3c364c804138942468db5
+      internalID: 903135203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_90"
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 883
+        width: 290
+        height: 326
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe756ae2d7f18148924145cc9c1923c
+      internalID: 436693839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_93"
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 479
+        width: 262
+        height: 345
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffffe9b80e0835f4987eb567b140f9b7
+      internalID: -800088707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_94"
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 473
+        width: 266
+        height: 347
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62567751c72a3824c94a744193539a47
+      internalID: -1433669305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_95"
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 469
+        width: 243
+        height: 361
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eff6afe7a15e754d83c435e87046a69
+      internalID: -1975698949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_96"
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 461
+        width: 245
+        height: 362
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd70bbca58228ed4f8db874403acf90c
+      internalID: -959419881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_98"
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 488
+        width: 241
+        height: 343
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed29af8278a748040ad207521eb440b7
+      internalID: 1192889960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_114"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 81
+        width: 224
+        height: 339
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2877f580fb7e496489ded9603a97580c
+      internalID: 888496774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_140"
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 71
+        width: 220
+        height: 347
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100f036d7d8bfab4da86076f46c6400d
+      internalID: 400672215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_151"
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 74
+        width: 188
+        height: 342
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2510f1cc3b52d4d929cf6bc69fc925
+      internalID: 1276390150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_174"
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 79
+        width: 219
+        height: 343
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f97849016aa7f74e96a0c9834f397a1
+      internalID: -822678129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_193"
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 84
+        width: 96
+        height: 330
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43508469e0da3640ab0c38d960fbe27
+      internalID: -140243277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_45"
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 913
+        width: 259
+        height: 324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc06d8fa5e43c974dbecbe3b167948ce
+      internalID: 797908877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites - Bola de Fuego Explosi\xF3n V2_59"
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 910
+        width: 277
+        height: 327
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3732885adc97a6043b80dff5007d4592
+      internalID: 346595643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2b53871db6e53364d84f15926ab6a82c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "Sprites - Bola de Fuego Explosi\xF3n V2_0": 1508003449
+      "Sprites - Bola de Fuego Explosi\xF3n V2_1": 1178560978
+      "Sprites - Bola de Fuego Explosi\xF3n V2_10": -2075049198
+      "Sprites - Bola de Fuego Explosi\xF3n V2_100": -405162650
+      "Sprites - Bola de Fuego Explosi\xF3n V2_101": 1622426340
+      "Sprites - Bola de Fuego Explosi\xF3n V2_102": 2110379059
+      "Sprites - Bola de Fuego Explosi\xF3n V2_103": 1235751655
+      "Sprites - Bola de Fuego Explosi\xF3n V2_104": -1677676627
+      "Sprites - Bola de Fuego Explosi\xF3n V2_105": 1368483886
+      "Sprites - Bola de Fuego Explosi\xF3n V2_106": -1157584794
+      "Sprites - Bola de Fuego Explosi\xF3n V2_107": 457475934
+      "Sprites - Bola de Fuego Explosi\xF3n V2_108": -83419071
+      "Sprites - Bola de Fuego Explosi\xF3n V2_109": 1548525589
+      "Sprites - Bola de Fuego Explosi\xF3n V2_11": -639355050
+      "Sprites - Bola de Fuego Explosi\xF3n V2_110": -940515062
+      "Sprites - Bola de Fuego Explosi\xF3n V2_111": 1345385100
+      "Sprites - Bola de Fuego Explosi\xF3n V2_112": -1701229780
+      "Sprites - Bola de Fuego Explosi\xF3n V2_113": 192075468
+      "Sprites - Bola de Fuego Explosi\xF3n V2_114": 888496774
+      "Sprites - Bola de Fuego Explosi\xF3n V2_115": -632570848
+      "Sprites - Bola de Fuego Explosi\xF3n V2_116": 32628113
+      "Sprites - Bola de Fuego Explosi\xF3n V2_117": -1153053269
+      "Sprites - Bola de Fuego Explosi\xF3n V2_118": -26133303
+      "Sprites - Bola de Fuego Explosi\xF3n V2_119": 884292882
+      "Sprites - Bola de Fuego Explosi\xF3n V2_12": -1420388973
+      "Sprites - Bola de Fuego Explosi\xF3n V2_120": -1027534257
+      "Sprites - Bola de Fuego Explosi\xF3n V2_121": -1684695701
+      "Sprites - Bola de Fuego Explosi\xF3n V2_122": 583108065
+      "Sprites - Bola de Fuego Explosi\xF3n V2_123": -643176194
+      "Sprites - Bola de Fuego Explosi\xF3n V2_124": -92782910
+      "Sprites - Bola de Fuego Explosi\xF3n V2_125": -651305354
+      "Sprites - Bola de Fuego Explosi\xF3n V2_126": -1915029478
+      "Sprites - Bola de Fuego Explosi\xF3n V2_127": 707948496
+      "Sprites - Bola de Fuego Explosi\xF3n V2_128": -735038699
+      "Sprites - Bola de Fuego Explosi\xF3n V2_129": 693715015
+      "Sprites - Bola de Fuego Explosi\xF3n V2_13": -1117842764
+      "Sprites - Bola de Fuego Explosi\xF3n V2_130": -1769176180
+      "Sprites - Bola de Fuego Explosi\xF3n V2_131": -837261098
+      "Sprites - Bola de Fuego Explosi\xF3n V2_132": 1548177184
+      "Sprites - Bola de Fuego Explosi\xF3n V2_133": -629276297
+      "Sprites - Bola de Fuego Explosi\xF3n V2_134": -136769426
+      "Sprites - Bola de Fuego Explosi\xF3n V2_135": -2094753402
+      "Sprites - Bola de Fuego Explosi\xF3n V2_136": -1967394445
+      "Sprites - Bola de Fuego Explosi\xF3n V2_137": 303060640
+      "Sprites - Bola de Fuego Explosi\xF3n V2_138": 79398490
+      "Sprites - Bola de Fuego Explosi\xF3n V2_139": 1281396058
+      "Sprites - Bola de Fuego Explosi\xF3n V2_14": 1256302250
+      "Sprites - Bola de Fuego Explosi\xF3n V2_140": 400672215
+      "Sprites - Bola de Fuego Explosi\xF3n V2_141": 1036407539
+      "Sprites - Bola de Fuego Explosi\xF3n V2_142": -70110041
+      "Sprites - Bola de Fuego Explosi\xF3n V2_143": 1918155840
+      "Sprites - Bola de Fuego Explosi\xF3n V2_144": 306062586
+      "Sprites - Bola de Fuego Explosi\xF3n V2_145": -1592498665
+      "Sprites - Bola de Fuego Explosi\xF3n V2_146": 248120640
+      "Sprites - Bola de Fuego Explosi\xF3n V2_147": 114957174
+      "Sprites - Bola de Fuego Explosi\xF3n V2_148": 1830376041
+      "Sprites - Bola de Fuego Explosi\xF3n V2_149": 514536817
+      "Sprites - Bola de Fuego Explosi\xF3n V2_15": -1153155713
+      "Sprites - Bola de Fuego Explosi\xF3n V2_150": -2018982191
+      "Sprites - Bola de Fuego Explosi\xF3n V2_151": 1276390150
+      "Sprites - Bola de Fuego Explosi\xF3n V2_152": 377966562
+      "Sprites - Bola de Fuego Explosi\xF3n V2_153": 1154680466
+      "Sprites - Bola de Fuego Explosi\xF3n V2_154": 1697884950
+      "Sprites - Bola de Fuego Explosi\xF3n V2_155": 438389980
+      "Sprites - Bola de Fuego Explosi\xF3n V2_156": -454855308
+      "Sprites - Bola de Fuego Explosi\xF3n V2_157": 855718532
+      "Sprites - Bola de Fuego Explosi\xF3n V2_158": 1158693591
+      "Sprites - Bola de Fuego Explosi\xF3n V2_159": -2108280662
+      "Sprites - Bola de Fuego Explosi\xF3n V2_16": -528529128
+      "Sprites - Bola de Fuego Explosi\xF3n V2_160": 1746771204
+      "Sprites - Bola de Fuego Explosi\xF3n V2_161": 489570375
+      "Sprites - Bola de Fuego Explosi\xF3n V2_162": 1828131623
+      "Sprites - Bola de Fuego Explosi\xF3n V2_163": -1418514065
+      "Sprites - Bola de Fuego Explosi\xF3n V2_164": 41500492
+      "Sprites - Bola de Fuego Explosi\xF3n V2_165": 580324148
+      "Sprites - Bola de Fuego Explosi\xF3n V2_166": -81263581
+      "Sprites - Bola de Fuego Explosi\xF3n V2_167": -1888217865
+      "Sprites - Bola de Fuego Explosi\xF3n V2_168": 1688998905
+      "Sprites - Bola de Fuego Explosi\xF3n V2_169": 803533895
+      "Sprites - Bola de Fuego Explosi\xF3n V2_17": 2133712625
+      "Sprites - Bola de Fuego Explosi\xF3n V2_170": 682688253
+      "Sprites - Bola de Fuego Explosi\xF3n V2_171": -1969997979
+      "Sprites - Bola de Fuego Explosi\xF3n V2_172": -1823187670
+      "Sprites - Bola de Fuego Explosi\xF3n V2_173": -1158087896
+      "Sprites - Bola de Fuego Explosi\xF3n V2_174": -822678129
+      "Sprites - Bola de Fuego Explosi\xF3n V2_175": 1998916673
+      "Sprites - Bola de Fuego Explosi\xF3n V2_176": 924777534
+      "Sprites - Bola de Fuego Explosi\xF3n V2_177": -1620303120
+      "Sprites - Bola de Fuego Explosi\xF3n V2_178": -1099287264
+      "Sprites - Bola de Fuego Explosi\xF3n V2_179": -1195114950
+      "Sprites - Bola de Fuego Explosi\xF3n V2_18": -842984894
+      "Sprites - Bola de Fuego Explosi\xF3n V2_180": 492284923
+      "Sprites - Bola de Fuego Explosi\xF3n V2_181": 1179051347
+      "Sprites - Bola de Fuego Explosi\xF3n V2_182": -1312824353
+      "Sprites - Bola de Fuego Explosi\xF3n V2_183": 1776612361
+      "Sprites - Bola de Fuego Explosi\xF3n V2_184": -1959039767
+      "Sprites - Bola de Fuego Explosi\xF3n V2_185": -2006355159
+      "Sprites - Bola de Fuego Explosi\xF3n V2_186": -1886680005
+      "Sprites - Bola de Fuego Explosi\xF3n V2_187": -1634748540
+      "Sprites - Bola de Fuego Explosi\xF3n V2_188": 630731416
+      "Sprites - Bola de Fuego Explosi\xF3n V2_189": -754730740
+      "Sprites - Bola de Fuego Explosi\xF3n V2_19": 127918155
+      "Sprites - Bola de Fuego Explosi\xF3n V2_190": -1421268239
+      "Sprites - Bola de Fuego Explosi\xF3n V2_191": 515618526
+      "Sprites - Bola de Fuego Explosi\xF3n V2_192": -82522841
+      "Sprites - Bola de Fuego Explosi\xF3n V2_193": -140243277
+      "Sprites - Bola de Fuego Explosi\xF3n V2_194": 1278622026
+      "Sprites - Bola de Fuego Explosi\xF3n V2_2": -1392382993
+      "Sprites - Bola de Fuego Explosi\xF3n V2_20": -75568587
+      "Sprites - Bola de Fuego Explosi\xF3n V2_21": -515582473
+      "Sprites - Bola de Fuego Explosi\xF3n V2_22": 440807128
+      "Sprites - Bola de Fuego Explosi\xF3n V2_23": -430067040
+      "Sprites - Bola de Fuego Explosi\xF3n V2_24": -567305559
+      "Sprites - Bola de Fuego Explosi\xF3n V2_25": -985821574
+      "Sprites - Bola de Fuego Explosi\xF3n V2_26": 1831122530
+      "Sprites - Bola de Fuego Explosi\xF3n V2_27": 199699866
+      "Sprites - Bola de Fuego Explosi\xF3n V2_28": -814679065
+      "Sprites - Bola de Fuego Explosi\xF3n V2_29": -328799481
+      "Sprites - Bola de Fuego Explosi\xF3n V2_3": 1003489664
+      "Sprites - Bola de Fuego Explosi\xF3n V2_30": 1704071645
+      "Sprites - Bola de Fuego Explosi\xF3n V2_31": -2068677157
+      "Sprites - Bola de Fuego Explosi\xF3n V2_32": 33049732
+      "Sprites - Bola de Fuego Explosi\xF3n V2_33": -1423367028
+      "Sprites - Bola de Fuego Explosi\xF3n V2_34": 1354003507
+      "Sprites - Bola de Fuego Explosi\xF3n V2_35": 638425300
+      "Sprites - Bola de Fuego Explosi\xF3n V2_36": -1215161749
+      "Sprites - Bola de Fuego Explosi\xF3n V2_37": -1393035776
+      "Sprites - Bola de Fuego Explosi\xF3n V2_38": 1258969174
+      "Sprites - Bola de Fuego Explosi\xF3n V2_39": 1798847514
+      "Sprites - Bola de Fuego Explosi\xF3n V2_4": 482331653
+      "Sprites - Bola de Fuego Explosi\xF3n V2_40": 1701349133
+      "Sprites - Bola de Fuego Explosi\xF3n V2_41": -1508539601
+      "Sprites - Bola de Fuego Explosi\xF3n V2_42": -1987583240
+      "Sprites - Bola de Fuego Explosi\xF3n V2_43": -1759508766
+      "Sprites - Bola de Fuego Explosi\xF3n V2_44": 77317203
+      "Sprites - Bola de Fuego Explosi\xF3n V2_45": 797908877
+      "Sprites - Bola de Fuego Explosi\xF3n V2_46": 1285780311
+      "Sprites - Bola de Fuego Explosi\xF3n V2_47": -1711668155
+      "Sprites - Bola de Fuego Explosi\xF3n V2_48": -1923958813
+      "Sprites - Bola de Fuego Explosi\xF3n V2_49": 1423638895
+      "Sprites - Bola de Fuego Explosi\xF3n V2_5": -342157576
+      "Sprites - Bola de Fuego Explosi\xF3n V2_50": 1922497028
+      "Sprites - Bola de Fuego Explosi\xF3n V2_51": -947589637
+      "Sprites - Bola de Fuego Explosi\xF3n V2_52": -2100029024
+      "Sprites - Bola de Fuego Explosi\xF3n V2_53": 741419318
+      "Sprites - Bola de Fuego Explosi\xF3n V2_54": -770609918
+      "Sprites - Bola de Fuego Explosi\xF3n V2_55": -535173370
+      "Sprites - Bola de Fuego Explosi\xF3n V2_56": 1076355071
+      "Sprites - Bola de Fuego Explosi\xF3n V2_57": -1628571399
+      "Sprites - Bola de Fuego Explosi\xF3n V2_58": -366371970
+      "Sprites - Bola de Fuego Explosi\xF3n V2_59": 346595643
+      "Sprites - Bola de Fuego Explosi\xF3n V2_6": 1266863824
+      "Sprites - Bola de Fuego Explosi\xF3n V2_60": 292620267
+      "Sprites - Bola de Fuego Explosi\xF3n V2_61": -1332348030
+      "Sprites - Bola de Fuego Explosi\xF3n V2_62": 1577461947
+      "Sprites - Bola de Fuego Explosi\xF3n V2_63": -1493892124
+      "Sprites - Bola de Fuego Explosi\xF3n V2_64": -813617590
+      "Sprites - Bola de Fuego Explosi\xF3n V2_65": 826317628
+      "Sprites - Bola de Fuego Explosi\xF3n V2_66": -1675867130
+      "Sprites - Bola de Fuego Explosi\xF3n V2_67": 371566866
+      "Sprites - Bola de Fuego Explosi\xF3n V2_68": -446421567
+      "Sprites - Bola de Fuego Explosi\xF3n V2_69": 478103626
+      "Sprites - Bola de Fuego Explosi\xF3n V2_7": -1281007156
+      "Sprites - Bola de Fuego Explosi\xF3n V2_70": 769271360
+      "Sprites - Bola de Fuego Explosi\xF3n V2_71": -147526153
+      "Sprites - Bola de Fuego Explosi\xF3n V2_72": -1026145131
+      "Sprites - Bola de Fuego Explosi\xF3n V2_73": -1802568116
+      "Sprites - Bola de Fuego Explosi\xF3n V2_74": -1679424254
+      "Sprites - Bola de Fuego Explosi\xF3n V2_75": -617005466
+      "Sprites - Bola de Fuego Explosi\xF3n V2_76": -896456363
+      "Sprites - Bola de Fuego Explosi\xF3n V2_77": 1863496999
+      "Sprites - Bola de Fuego Explosi\xF3n V2_78": -1398332815
+      "Sprites - Bola de Fuego Explosi\xF3n V2_79": -800800197
+      "Sprites - Bola de Fuego Explosi\xF3n V2_8": -1465609441
+      "Sprites - Bola de Fuego Explosi\xF3n V2_80": 654011233
+      "Sprites - Bola de Fuego Explosi\xF3n V2_81": 1705436749
+      "Sprites - Bola de Fuego Explosi\xF3n V2_82": -375837797
+      "Sprites - Bola de Fuego Explosi\xF3n V2_83": -1057539557
+      "Sprites - Bola de Fuego Explosi\xF3n V2_84": 271827898
+      "Sprites - Bola de Fuego Explosi\xF3n V2_85": 2083563060
+      "Sprites - Bola de Fuego Explosi\xF3n V2_86": -1866875676
+      "Sprites - Bola de Fuego Explosi\xF3n V2_87": -1024902081
+      "Sprites - Bola de Fuego Explosi\xF3n V2_88": -176991155
+      "Sprites - Bola de Fuego Explosi\xF3n V2_89": 903135203
+      "Sprites - Bola de Fuego Explosi\xF3n V2_9": -357415549
+      "Sprites - Bola de Fuego Explosi\xF3n V2_90": 436693839
+      "Sprites - Bola de Fuego Explosi\xF3n V2_91": -1700686430
+      "Sprites - Bola de Fuego Explosi\xF3n V2_92": -1455049759
+      "Sprites - Bola de Fuego Explosi\xF3n V2_93": -800088707
+      "Sprites - Bola de Fuego Explosi\xF3n V2_94": -1433669305
+      "Sprites - Bola de Fuego Explosi\xF3n V2_95": -1975698949
+      "Sprites - Bola de Fuego Explosi\xF3n V2_96": -959419881
+      "Sprites - Bola de Fuego Explosi\xF3n V2_97": -11813812
+      "Sprites - Bola de Fuego Explosi\xF3n V2_98": 1192889960
+      "Sprites - Bola de Fuego Explosi\xF3n V2_99": -1505764169
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -69,6 +69,7 @@
     <Compile Include="Assets\Materials_Textures\02.Materiales cap10\Sprites_Animator\MeteorMove.cs" />
     <Compile Include="Assets\Scripts\LimitarEnHoja.cs" />
     <Compile Include="Assets\Scripts\Scripts_Sprites\Bola_Fuego.cs" />
+    <Compile Include="Assets\Integracion_Tomo1\Personajes\MDL_Lot_Adulto\MovimientoSimple.cs" />
     <Compile Include="Assets\Scripts\Scripts_Sprites\Meteoro.cs" />
     <Compile Include="Assets\Scripts\ImageTargetVisibility.cs" />
     <Compile Include="Assets\Materials_Textures\02.Materiales cap10\Sprites_Animator\AreaCaidaValidator.cs" />
@@ -80,6 +81,7 @@
     <Compile Include="Assets\Scripts\Scrips_Animator\ControlSimple.cs" />
     <Compile Include="Assets\Scripts\AjustarPosicionAR.cs" />
     <Compile Include="Assets\Scripts\Scripts_Sprites\Intanciador_Bola_Fuego.cs" />
+    <Compile Include="Assets\Integracion_Tomo1\Personajes\MDL_Lot_Adulto\EventosHijo.cs" />
     <Compile Include="Assets\Scripts\LimitCameraDistance.cs" />
     <Compile Include="Assets\Integracion_Tomo1\Personajes\MDL_Jose\NinoEventos.cs" />
     <Compile Include="Assets\Scripts\Scripts_Sprites\Spawner_Meteoros.cs" />
