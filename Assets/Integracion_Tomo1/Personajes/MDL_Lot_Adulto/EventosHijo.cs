@@ -8,13 +8,14 @@ public class EventosHijo : MonoBehaviour
     void Start()
     {
         animator = GetComponent<Animator>();
+        movimientoPadre = GetComponentInParent<MovimientoSimple>();
     }
-
     public void DispararMovimiento()
     {
         AnimatorStateInfo stateInfo = animator.GetCurrentAnimatorStateInfo(0);
 
         float tiempoRestante = (1f - stateInfo.normalizedTime) * stateInfo.length;
+        Debug.Log("EVENTO NUEVO PERSONAJE: " + gameObject.name);
 
         movimientoPadre.EmpezarMover(tiempoRestante);
     }
@@ -22,4 +23,6 @@ public class EventosHijo : MonoBehaviour
     {
         movimientoPadre.DetenerMovimiento();
     }
+
+   
 }

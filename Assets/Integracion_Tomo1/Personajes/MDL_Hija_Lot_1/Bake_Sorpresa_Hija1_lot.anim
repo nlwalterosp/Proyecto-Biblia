@@ -100995,8 +100995,22 @@ AnimationClip:
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
   m_Events:
-  - time: 3.9583333
-    functionName: EjecutarMovimiento
+  - time: 4.7916665
+    functionName: DispararMovimiento
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 5.5833335
+    functionName: DispararMovimiento
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 8.041667
+    functionName: FinMovimiento
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
