@@ -8,12 +8,14 @@ public class MeteorMove : MonoBehaviour
 
     void Start()
     {
-        speedFall = Random.Range(0.2f, 0.4f); // ajusta aquí
+        speedFall = Random.Range(0.2f, 0.3f);
+
+        if (direction == Vector3.zero)
+            direction = Vector3.down;
     }
 
     void Update()
     {
-        transform.Translate(direction * speedFall * Time.deltaTime);
+        transform.position += direction * speedFall * Time.deltaTime;
     }
 }
-

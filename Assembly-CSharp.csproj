@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Integracion_Tomo1\Personajes\MDL_Esposa_Lot\CambioEstatua.cs" />
     <Compile Include="Assets\Scripts\MovimientoPorEstado.cs" />
+    <Compile Include="Assets\Materials_Textures\02.Materiales cap10\Sprites_Animator\Billboard.cs" />
     <Compile Include="Assets\Scripts\ARScaleOnDetect.cs" />
     <Compile Include="Assets\Materials_Textures\02.Materiales cap10\Sprites_Animator\SpritesInteractivos\MeteorMove.cs" />
     <Compile Include="Assets\Scripts\EventoMovimiento.cs" />
