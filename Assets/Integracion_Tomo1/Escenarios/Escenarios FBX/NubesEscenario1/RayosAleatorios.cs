@@ -4,12 +4,17 @@ using System.Collections;
 public class RayosAleatorios : MonoBehaviour
 {
     public GameObject[] rayos;
-    public float tiempoMin = 4f;
-    public float tiempoMax = 10f;
-    public float duracionRayo = 0.3f;
-
+    public float tiempoMin = 0.5f;
+    public float tiempoMax = 1.2f;
+    public float duracionRayo = 0.6f;
     void Start()
     {
+        // apagar todos al inicio
+        foreach (GameObject r in rayos)
+        {
+            r.SetActive(false);
+        }
+
         StartCoroutine(Rayos());
     }
 
