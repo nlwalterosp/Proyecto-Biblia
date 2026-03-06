@@ -435,10 +435,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Targets-LaCreacion
       objectReference: {fileID: 0}
-    - target: {fileID: 9172076717556197509, guid: 766f7dc06c4ce1145b0b40ad1ecfbc4f, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
