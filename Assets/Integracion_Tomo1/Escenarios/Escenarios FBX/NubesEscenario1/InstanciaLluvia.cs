@@ -38,4 +38,11 @@ public class InstanciaLluvia : MonoBehaviour
             InvokeRepeating(nameof(CrearGota), 0f, tiempoActual);
         }
     }
+    public void ActivarLluviaFuerte()
+    {
+        tiempoActual = 0.1f;
+
+        CancelInvoke();
+        InvokeRepeating(nameof(CrearGota), 0f, tiempoActual);
+    }
 }
