@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Tex_Cara_Angel_Forasteo3_URP
-  m_Shader: {fileID: 4800000, guid: 34ebd4dfc01c2e443bf389aec894258b, type: 3}
+  m_Name: MAT_Esposa_Lot_Piedra
+  m_Shader: {fileID: 4800000, guid: 0689892d25f12584fb11a2279ea8e27f, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -25,7 +25,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 6b025df441acb16478a257869771b755, type: 3}
+        m_Texture: {fileID: 2800000, guid: cf641ecf644548e4d9c4d7661d188303, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -49,7 +49,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 02c54a591479b7e48b5a88d2a6cde8c9, type: 3}
+        m_Texture: {fileID: 2800000, guid: 49b0ce31ec09e7640b2c668c488d2a65, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
