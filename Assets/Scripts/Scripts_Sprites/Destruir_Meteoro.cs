@@ -17,6 +17,7 @@ public class Destruir_Meteoro : MonoBehaviour
 
     void InstanExplosion()
     {
-        Instantiate(animExplosion,this.transform.position,Quaternion.identity);
+        GameObject explosion = Instantiate(animExplosion, transform.position, Quaternion.identity, transform.parent);
+        Destroy(explosion, 2f);
     }
 }

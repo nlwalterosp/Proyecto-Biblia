@@ -8,7 +8,7 @@ public class MeteorSpawner : MonoBehaviour
     public float maxSpawnRangeX;
     public float spawnPosY;
 
-    public float startDalay;
+    public float startDelay;
     public float spawnInterval;
     public BoxCollider areaSpawn;
     public float margen = 0.05f; // Ajusta este valor (en metros AR suele ser pequeño)
@@ -27,7 +27,7 @@ public class MeteorSpawner : MonoBehaviour
 
         // Este metodo sirve para invocat una funcion y hacer que se repita  sucesivamente
         // Se activara desde un tiempo trascurrido ( despues de dos 2 segundos de inicio) y se repetirar en intervalos tiempo (1.5f segundos)
-        InvokeRepeating("SpawnRandomAnimals", startDalay, spawnInterval);
+      //  InvokeRepeating("SpawnRandomAnimals", startDalay, spawnInterval);
     }
 
     void SpawnRandomAnimals()
@@ -53,7 +53,7 @@ public class MeteorSpawner : MonoBehaviour
 
             if (!hayPersonaje)
             {
-                Instantiate(meteoroPrefabs, spawnPos, meteoroPrefabs.transform.rotation);
+                Instantiate(meteoroPrefabs, spawnPos, meteoroPrefabs.transform.rotation, transform);
                 break; // Ya instanciamos bien, salimos
             }
         }
@@ -79,5 +79,21 @@ public class MeteorSpawner : MonoBehaviour
         );
 
         Gizmos.DrawWireCube(b.center, sizeConMargen);
+    }
+
+    void OnDisable()
+    {
+        CancelInvoke();
+
+        foreach (Transform child in transform)
+        {
+            Destroy(child.gameObject);
+        }
+    }
+
+    void OnEnable()
+    {
+        CancelInvoke();
+        InvokeRepeating(nameof(SpawnRandomAnimals), startDelay, spawnInterval);
     }
 }
