@@ -259,6 +259,79 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &379616444
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: a53339ebc9d4500438cfd7d340c1dcb5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a53339ebc9d4500438cfd7d340c1dcb5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a53339ebc9d4500438cfd7d340c1dcb5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a53339ebc9d4500438cfd7d340c1dcb5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a53339ebc9d4500438cfd7d340c1dcb5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a53339ebc9d4500438cfd7d340c1dcb5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a53339ebc9d4500438cfd7d340c1dcb5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a53339ebc9d4500438cfd7d340c1dcb5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a53339ebc9d4500438cfd7d340c1dcb5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a53339ebc9d4500438cfd7d340c1dcb5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4724717026384086526, guid: a53339ebc9d4500438cfd7d340c1dcb5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 162c157bc7074f34aab21dcc03e86fa1, type: 2}
+    - target: {fileID: -3376678772191341759, guid: a53339ebc9d4500438cfd7d340c1dcb5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 162c157bc7074f34aab21dcc03e86fa1, type: 2}
+    - target: {fileID: -320423671786622510, guid: a53339ebc9d4500438cfd7d340c1dcb5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 162c157bc7074f34aab21dcc03e86fa1, type: 2}
+    - target: {fileID: 919132149155446097, guid: a53339ebc9d4500438cfd7d340c1dcb5, type: 3}
+      propertyPath: m_Name
+      value: Camello_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3380166628858716499, guid: a53339ebc9d4500438cfd7d340c1dcb5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 4117e4794261f024dbca5181b39edb47, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a53339ebc9d4500438cfd7d340c1dcb5, type: 3}
 --- !u!1001 &579148375
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -314,6 +387,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 31a434fbf6b1a4b488a4e8b269456cb8, type: 3}
       propertyPath: m_Name
       value: olass rig (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 31a434fbf6b1a4b488a4e8b269456cb8, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -383,6 +460,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: olass rig (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 31a434fbf6b1a4b488a4e8b269456cb8, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -446,6 +527,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 31a434fbf6b1a4b488a4e8b269456cb8, type: 3}
       propertyPath: m_Name
       value: olass rig
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 31a434fbf6b1a4b488a4e8b269456cb8, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -791,7 +876,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!64 &1828013309
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -950,3 +1035,4 @@ SceneRoots:
   - {fileID: 1828013312}
   - {fileID: 291550005}
   - {fileID: 1833959904}
+  - {fileID: 379616444}
