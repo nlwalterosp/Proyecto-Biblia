@@ -69,7 +69,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MeteorMove
   speedFall: 0.4
-  direction: {x: -0.08, y: -0.1, z: 0}
+  direction: {x: 0, y: -0.1, z: 0}
   explosion: {fileID: 7238111196186156091, guid: 9a200e473d9ff2a45bf5a4354a7e25f3, type: 3}
 --- !u!114 &8387644927614115496
 MonoBehaviour:
