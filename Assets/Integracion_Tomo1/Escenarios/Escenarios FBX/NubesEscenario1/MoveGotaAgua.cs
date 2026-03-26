@@ -7,8 +7,13 @@ public class MoveGotaAgua : MonoBehaviour
 
     void Update()
     {
-        Vector3 direccion = new Vector3(-0.3f, -1f, 0f);
-        transform.position += direccion * velocidad * Time.deltaTime;
+        Vector3 direccion = new Vector3(
+        -0.3f + Random.Range(-0.1f, 0.1f), -1f,
+
+        Random.Range(-0.05f, 0.05f));
+
+        float velocidadFinal = velocidad + Random.Range(-0.5f, 0.5f);
+        transform.position += direccion * velocidadFinal * Time.deltaTime;
     }
 
     void OnCollisionEnter(Collision col)
@@ -23,7 +28,7 @@ public class MoveGotaAgua : MonoBehaviour
                 Quaternion.identity
             );
 
-            Destroy(efecto, 0.4f);
+            Destroy(efecto, 0.2f);
 
             Destroy(gameObject);
         }
