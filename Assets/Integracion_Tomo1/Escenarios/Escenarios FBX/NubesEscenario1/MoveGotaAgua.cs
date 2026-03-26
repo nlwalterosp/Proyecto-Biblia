@@ -7,7 +7,8 @@ public class MoveGotaAgua : MonoBehaviour
 
     void Update()
     {
-        transform.position += Vector3.down * velocidad * Time.deltaTime;
+        Vector3 direccion = new Vector3(-0.3f, -1f, 0f);
+        transform.position += direccion * velocidad * Time.deltaTime;
     }
 
     void OnCollisionEnter(Collision col)

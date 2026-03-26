@@ -15,7 +15,6 @@ public class InstanciaLluvia : MonoBehaviour
     void Start()
     {
         tiempoActual = tiempoInicial;
-        InvokeRepeating(nameof(CrearGota), 0f, tiempoActual);
     }
 
     void CrearGota()
@@ -28,7 +27,7 @@ public class InstanciaLluvia : MonoBehaviour
             transform.position.z
         );
 
-        Instantiate(gota, posicion, Quaternion.identity);
+        Instantiate(gota, posicion, Quaternion.identity, transform);
 
         // aumentar la lluvia poco a poco
         if (tiempoActual > tiempoMinimo)
@@ -37,5 +36,29 @@ public class InstanciaLluvia : MonoBehaviour
             CancelInvoke();
             InvokeRepeating(nameof(CrearGota), 0f, tiempoActual);
         }
+    }
+    public void ActivarLluviaFuerte()
+    {
+        tiempoActual = 0.1f;
+
+        CancelInvoke();
+        InvokeRepeating(nameof(CrearGota), 0f, tiempoActual);
+    }
+
+    void OnDisable()
+    {
+        CancelInvoke();
+
+        foreach (Transform child in transform)
+        {
+            Destroy(child.gameObject);
+        }
+    }
+
+    void OnEnable()
+    {
+        CancelInvoke();
+        tiempoActual = tiempoInicial;
+        InvokeRepeating(nameof(CrearGota), 0f, tiempoActual);
     }
 }
