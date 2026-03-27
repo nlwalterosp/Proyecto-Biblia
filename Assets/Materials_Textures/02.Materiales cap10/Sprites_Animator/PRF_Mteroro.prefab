@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 7990630956521855939}
   - component: {fileID: 8387644927614115496}
   m_Layer: 0
-  m_Name: MeteroritoV2_root
+  m_Name: PRF_Mteroro
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

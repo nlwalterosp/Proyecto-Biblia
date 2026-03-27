@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 786974345227246112}
   - component: {fileID: 2693772240569398983}
   m_Layer: 0
-  m_Name: ExplosionVr2_root
+  m_Name: PRF_Explosion_Mteroro
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
