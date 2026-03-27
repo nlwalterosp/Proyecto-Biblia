@@ -32,7 +32,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Sprites - Bola de Fuego
+  m_Name: ANC_Bola_Fuego_Meteoro
   serializedVersion: 5
   m_AnimatorParameters: []
   m_AnimatorLayers:
