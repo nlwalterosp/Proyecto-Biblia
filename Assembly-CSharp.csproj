@@ -62,17 +62,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Integracion_Tomo1\Escenarios\Escenarios FBX\NubesEscenario1\ComportamientoNube.cs" />
-    <Compile Include="Assets\Integracion_Tomo1\Personajes\MDL_Esposa_Lot\CambioEstatua.cs" />
     <Compile Include="Assets\Scripts\MovimientoPorEstado.cs" />
     <Compile Include="Assets\Scripts\ARScaleOnDetect.cs" />
     <Compile Include="Assets\Materials_Textures\02.Materiales cap10\Sprites_Animator\SpritesInteractivos\MeteorMove.cs" />
     <Compile Include="Assets\Scripts\EventoMovimiento.cs" />
     <Compile Include="Assets\Scripts\LimitarEnHoja.cs" />
+    <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion2\MovimientoSimple.cs" />
     <Compile Include="Assets\Scripts\Scripts_Sprites\Bola_Fuego.cs" />
+    <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion2\CambioEstatua.cs" />
     <Compile Include="Assets\Materials_Textures\02.Materiales cap10\Sprites_Animator\SpritesInteractivos\AreaCaidaValidator.cs" />
-    <Compile Include="Assets\Integracion_Tomo1\Personajes\MDL_Lot_Adulto\MovimientoSimple.cs" />
-    <Compile Include="Assets\Integracion_Tomo1\Personajes\MDL_Adam\PersonajeLlora.cs" />
+    <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion2\EventosHijo.cs" />
     <Compile Include="Assets\Integracion_Tomo1\Escenarios\Escenarios FBX\NubesEscenario1\RayosAleatorios.cs" />
+    <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion1\Personaje_Adam_Eva_Llora.cs" />
     <Compile Include="Assets\Scripts\Scripts_Sprites\Meteoro.cs" />
     <Compile Include="Assets\Materials_Textures\02.Materiales cap10\Sprites_Animator\SpritesInteractivos\MoverSpawnPoint.cs" />
     <Compile Include="Assets\Scripts\ImageTargetVisibility.cs" />
@@ -85,7 +86,6 @@
     <Compile Include="Assets\Scripts\AjustarPosicionAR.cs" />
     <Compile Include="Assets\Scripts\Scripts_Sprites\Intanciador_Bola_Fuego.cs" />
     <Compile Include="Assets\Integracion_Tomo1\Escenarios\Escenarios FBX\NubesEscenario1\ControlClima.cs" />
-    <Compile Include="Assets\Integracion_Tomo1\Personajes\MDL_Lot_Adulto\EventosHijo.cs" />
     <Compile Include="Assets\Materials_Textures\02.Materiales cap10\Sprites_Animator\SpritesInteractivos\DestruirObjeto.cs" />
     <Compile Include="Assets\Scripts\LimitCameraDistance.cs" />
     <Compile Include="Assets\Integracion_Tomo1\Personajes\MDL_Jose\NinoEventos.cs" />
@@ -99,7 +99,7 @@
     <None Include="Assets\Samples\Splines\2.8.3\Spline Examples (requires Shader Graph package)\Shader\InterpolateSpline.compute" />
     <None Include="Assets\Settings\NewUnlitUniversalRenderPipelineShader.shader" />
     <None Include="Assets\Materials_Textures\Materiales URP_Lit Cartoon\Codigo_Shaders\UnlitTarasparente.shader" />
-    <None Include="Assets\Integracion_Tomo1\Personajes\MDL_Esposa_Lot\Material_Cambio.shader" />
+    <None Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion2\Material_Cambio.shader" />
     <None Include="Assets\Materials_Textures\Materiales URP_Lit Cartoon\Codigo_Shaders\UnlitToom_doblecara.shader" />
     <None Include="Assets\Materials_Textures\Materiales URP_Lit Cartoon\Codigo_Shaders\NewUnlitUniversalRenderPipelineShader.shader" />
     <None Include="Assets\Materials_Textures\Materiales URP_Lit Cartoon\Codigo_Shaders\Agua.shader" />
