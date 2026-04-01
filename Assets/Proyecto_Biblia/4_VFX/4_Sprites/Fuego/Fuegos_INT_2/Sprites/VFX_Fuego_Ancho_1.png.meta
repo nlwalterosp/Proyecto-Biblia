@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: ecbb07edda608934cbb9cd1dbfea402c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Fuego_Ancho_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 794
+        width: 235
+        height: 207
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9766409c748f692409ad7f07c6a44fac
+      internalID: 1784389006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Fuego_Ancho_2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 794
+        width: 235
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4313e9ca2158fe44eb4b17e2b1a749e8
+      internalID: 390020763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Fuego_Ancho_3
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 789
+        width: 236
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b277cdc1654694981dc18eae943048
+      internalID: 1262496783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Fuego_Ancho_5
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 558
+        width: 232
+        height: 201
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccc506aea1a02b4381f79a884cbb6ed
+      internalID: 104167957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Fuego_Ancho_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 558
+        width: 230
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0466022b934491f4fa90d4eb035038be
+      internalID: 303420850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Fuego_Ancho_6
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 558
+        width: 230
+        height: 215
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55c5dacecb884e4a8d6f10bbf851e7e
+      internalID: 1419045584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Fuego_Ancho_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 325
+        width: 234
+        height: 212
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d637eaa3e7ea3ce4e969f842cca84d89
+      internalID: 1689047645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Fuego_Ancho_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 323
+        width: 231
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a15d645da8316b449d49538eef5eb3b
+      internalID: -590013590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Fuego_Ancho_9
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 323
+        width: 232
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c9c2a1a17fef74087fc7f20425bd70
+      internalID: 1355387760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Fuego_Ancho_11
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 51
+        width: 244
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c17b1753c81ef34e9844ebc83bd3507
+      internalID: 1595038825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Fuego_Ancho_12
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 48
+        width: 240
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cc51829b28c424597c939ce93459a3
+      internalID: 1317681508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Fuego_Ancho_10
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 50
+        width: 232
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0030f0ba18ae7b740a69ba021c35b544
+      internalID: 1995461768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 31955e103870b554f81637e52ce9f1e4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      VFX_Fuego_Ancho_1: 1784389006
+      VFX_Fuego_Ancho_10: 1995461768
+      VFX_Fuego_Ancho_11: 1595038825
+      VFX_Fuego_Ancho_12: 1317681508
+      VFX_Fuego_Ancho_1_0: -1979868206
+      VFX_Fuego_Ancho_1_1: 1022782395
+      VFX_Fuego_Ancho_1_10: -1048453173
+      VFX_Fuego_Ancho_1_11: -116006309
+      VFX_Fuego_Ancho_1_12: 726147808
+      VFX_Fuego_Ancho_1_13: 1552852424
+      VFX_Fuego_Ancho_1_14: 808418224
+      VFX_Fuego_Ancho_1_15: -226540965
+      VFX_Fuego_Ancho_1_16: -336858903
+      VFX_Fuego_Ancho_1_17: 1119869461
+      VFX_Fuego_Ancho_1_19: 903747271
+      VFX_Fuego_Ancho_1_20: 360449143
+      VFX_Fuego_Ancho_1_21: 337624652
+      VFX_Fuego_Ancho_1_22: -2050981505
+      VFX_Fuego_Ancho_1_23: 495690568
+      VFX_Fuego_Ancho_1_25: 1710775166
+      VFX_Fuego_Ancho_1_26: -858370225
+      VFX_Fuego_Ancho_1_28: 2123462796
+      VFX_Fuego_Ancho_1_29: 1670413492
+      VFX_Fuego_Ancho_1_3: 574428418
+      VFX_Fuego_Ancho_1_30: -1538053691
+      VFX_Fuego_Ancho_1_31: 403606422
+      VFX_Fuego_Ancho_1_32: 1611543950
+      VFX_Fuego_Ancho_1_34: -1963658572
+      VFX_Fuego_Ancho_1_35: 1881481127
+      VFX_Fuego_Ancho_1_36: 172322964
+      VFX_Fuego_Ancho_1_37: 379101830
+      VFX_Fuego_Ancho_1_40: -82881452
+      VFX_Fuego_Ancho_1_41: -1700981567
+      VFX_Fuego_Ancho_1_42: 35847155
+      VFX_Fuego_Ancho_1_43: 5415884
+      VFX_Fuego_Ancho_1_44: -1331145972
+      VFX_Fuego_Ancho_1_45: -1986153874
+      VFX_Fuego_Ancho_1_46: -1658471340
+      VFX_Fuego_Ancho_1_47: 911991925
+      VFX_Fuego_Ancho_1_48: 384830340
+      VFX_Fuego_Ancho_1_49: 550475068
+      VFX_Fuego_Ancho_1_5: -220949456
+      VFX_Fuego_Ancho_1_50: 1790811704
+      VFX_Fuego_Ancho_1_52: 1635108561
+      VFX_Fuego_Ancho_1_54: -1729800881
+      VFX_Fuego_Ancho_1_6: -2096589524
+      VFX_Fuego_Ancho_1_7: -523496619
+      VFX_Fuego_Ancho_1_9: 489440916
+      VFX_Fuego_Ancho_2: 390020763
+      VFX_Fuego_Ancho_3: 1262496783
+      VFX_Fuego_Ancho_4: 303420850
+      VFX_Fuego_Ancho_5: 104167957
+      VFX_Fuego_Ancho_6: 1419045584
+      VFX_Fuego_Ancho_7: -590013590
+      VFX_Fuego_Ancho_8: 1689047645
+      VFX_Fuego_Ancho_9: 1355387760
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
