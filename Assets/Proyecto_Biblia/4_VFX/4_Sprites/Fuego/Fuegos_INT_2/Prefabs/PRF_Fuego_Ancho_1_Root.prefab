@@ -10,8 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 6683923595263881304}
   - component: {fileID: 5871996448299344638}
-  - component: {fileID: 5653665040028875694}
-  - component: {fileID: 6513457073956906322}
   m_Layer: 0
   m_Name: VFX_Fuego_Ancho_1grp
   m_TagString: Untagged
@@ -57,30 +55,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &5653665040028875694
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1860888371754398355}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ef1dfc0e57fc1fb4e84381ac7c510e03, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::FuegoRandomOffset
---- !u!114 &6513457073956906322
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1860888371754398355}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 06534accc4e912641ac61f144294816f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::FuegoInicio
 --- !u!1 &2822079417630550389
 GameObject:
   m_ObjectHideFlags: 0

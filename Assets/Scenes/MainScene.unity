@@ -127,22 +127,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 114305397389424306, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
-      value: 
-      objectReference: {fileID: 2100000, guid: 2e775e0e7fd75334e8d4c894b25f45f2, type: 2}
-    - target: {fileID: 758506568514319438, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_Name
-      value: VFX_Fuego
-      objectReference: {fileID: 0}
     - target: {fileID: 1204737118070635603, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
       propertyPath: imageManager
       value: 
       objectReference: {fileID: 392828196}
-    - target: {fileID: 1460854928551590591, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1512550804123550302, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -183,70 +171,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1776044637133649792, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_Name
-      value: PRF_Fuego_Stylized
-      objectReference: {fileID: 0}
-    - target: {fileID: 2774853009865004553, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_Name
-      value: PRF_Humo_Stylized
-      objectReference: {fileID: 0}
-    - target: {fileID: 3803358584005134089, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
-      value: 
-      objectReference: {fileID: 2100000, guid: 2e775e0e7fd75334e8d4c894b25f45f2, type: 2}
     - target: {fileID: 4203445445091124752, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
       propertyPath: m_Name
       value: Contenedor_Tomo1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4308598065376497099, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_Name
-      value: PRF_Humo_Stylized
-      objectReference: {fileID: 0}
-    - target: {fileID: 4600682005231420917, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_Name
-      value: VFX_Fuego
-      objectReference: {fileID: 0}
-    - target: {fileID: 5036066606316777046, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_Name
-      value: VFX_Fuego
-      objectReference: {fileID: 0}
-    - target: {fileID: 5689007812590513322, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
-      value: 
-      objectReference: {fileID: 2100000, guid: 2e775e0e7fd75334e8d4c894b25f45f2, type: 2}
-    - target: {fileID: 6031781121639224243, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_Name
-      value: PRF_Humo_Stylized
-      objectReference: {fileID: 0}
-    - target: {fileID: 6323253309259509144, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_Name
-      value: PRF_Fuego_Stylized
       objectReference: {fileID: 0}
     - target: {fileID: 6996643372115282370, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
       propertyPath: imageManager
       value: 
       objectReference: {fileID: 392828196}
-    - target: {fileID: 7106279156223613987, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_Name
-      value: PRF_Fuego_Stylized
-      objectReference: {fileID: 0}
-    - target: {fileID: 8634605833127352085, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 8857049325109104194, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
       propertyPath: imageManager
       value: 
       objectReference: {fileID: 392828196}
     m_RemovedComponents: []
-    m_RemovedGameObjects:
-    - {fileID: 7823408686059343266, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-    - {fileID: 2591582914486114234, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-    - {fileID: 6470673087783549977, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-    - {fileID: 1073210165622518630, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-    - {fileID: 6527923335620388112, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
-    - {fileID: 406468669214276818, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
+    m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f8535652168cd54caba33429d1aab51, type: 3}
