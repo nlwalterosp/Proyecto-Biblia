@@ -3,19 +3,19 @@ using System.Collections;
 
 public class FuegoDelay : MonoBehaviour
 {
-    Renderer rend;
     Animator anim;
+    SpriteRenderer[] sprites;
 
     void Start()
     {
-        rend = GetComponentInChildren<Renderer>();
         anim = GetComponent<Animator>();
+        sprites = GetComponentsInChildren<SpriteRenderer>();
 
-        if (rend != null)
-            rend.enabled = false; // 🔥 ocultamos visual
-
-        if (anim != null)
-            anim.enabled = false; // 🔥 detenemos animación
+        // 🔥 ocultar TODOS los sprites
+        foreach (SpriteRenderer s in sprites)
+        {
+            s.enabled = false;
+        }
 
         StartCoroutine(ActivarFuego());
     }
@@ -25,11 +25,17 @@ public class FuegoDelay : MonoBehaviour
         float delay = Random.Range(0f, 3f);
         yield return new WaitForSeconds(delay);
 
-        if (rend != null)
-            rend.enabled = true;
+        // 🔥 mostrar sprites
+        foreach (SpriteRenderer s in sprites)
+        {
+            s.enabled = true;
+        }
 
+        // 🔥 reiniciar animación desde 0
         if (anim != null)
-            anim.enabled = true;
+        {
+            anim.Play("Escala_entrada_animClip", 0, 0f);
+        }
 
         enabled = false;
     }

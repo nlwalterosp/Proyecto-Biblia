@@ -76,7 +76,9 @@
     <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion3\NinoEventos.cs" />
     <Compile Include="Assets\Integracion_Tomo1\Escenarios\Escenarios FBX\NubesEscenario1\RayosAleatorios.cs" />
     <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion1\Personaje_Adam_Eva_Llora.cs" />
+    <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion3\FuegoInicio.cs" />
     <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion3\ControlSimple.cs" />
+    <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion2\FuegoRandomOffset.cs" />
     <Compile Include="Assets\Scripts\Scripts_Sprites\Meteoro.cs" />
     <Compile Include="Assets\Materials_Textures\02.Materiales cap10\Sprites_Animator\SpritesInteractivos\MoverSpawnPoint.cs" />
     <Compile Include="Assets\Scripts\ImageTargetVisibility.cs" />
