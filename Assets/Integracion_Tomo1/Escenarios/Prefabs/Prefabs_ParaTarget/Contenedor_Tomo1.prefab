@@ -65,6 +65,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1512550804123550302}
     m_Modifications:
+    - target: {fileID: 738715688299732221, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
+      propertyPath: m_Name
+      value: PRF_Fuego_Stylized
+      objectReference: {fileID: 0}
+    - target: {fileID: 1023996723478029014, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
+      propertyPath: m_Name
+      value: PRF_Humo_Stylized
+      objectReference: {fileID: 0}
+    - target: {fileID: 1401654219408530895, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2e775e0e7fd75334e8d4c894b25f45f2, type: 2}
     - target: {fileID: 1747429051625462636, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -105,16 +117,55 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1757376397314301747, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
+      propertyPath: m_Name
+      value: VFX_Fuego
+      objectReference: {fileID: 0}
     - target: {fileID: 3050220219654383216, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
       propertyPath: m_Name
       value: Targets-Huida_Lot
       objectReference: {fileID: 0}
     - target: {fileID: 3050220219654383216, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4548165433061829958, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
+      propertyPath: m_Name
+      value: PRF_Fuego_Stylized
+      objectReference: {fileID: 0}
+    - target: {fileID: 4982388909870827237, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
+      propertyPath: m_Name
+      value: PRF_Fuego_Stylized
+      objectReference: {fileID: 0}
+    - target: {fileID: 6270707039907628331, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
+      propertyPath: m_Name
+      value: VFX_Fuego
+      objectReference: {fileID: 0}
+    - target: {fileID: 6635736600962303959, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2e775e0e7fd75334e8d4c894b25f45f2, type: 2}
+    - target: {fileID: 7086449783539053712, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
+      propertyPath: m_Name
+      value: VFX_Fuego
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371249630934695086, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
+      propertyPath: m_Name
+      value: PRF_Humo_Stylized
+      objectReference: {fileID: 0}
+    - target: {fileID: 7586587470912550508, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2e775e0e7fd75334e8d4c894b25f45f2, type: 2}
+    - target: {fileID: 8863793786401695596, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
+      propertyPath: m_Name
+      value: PRF_Humo_Stylized
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 3536051244053380295, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
+    - {fileID: 9113000374696830687, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
+    - {fileID: 309822049484819836, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
@@ -177,7 +228,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8336593979922474453, guid: 1da8939d30fc7ff40a25d4639bb96405, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
