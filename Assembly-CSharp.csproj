@@ -64,13 +64,13 @@
     <Compile Include="Assets\Integracion_Tomo1\Escenarios\Escenarios FBX\NubesEscenario1\ComportamientoNube.cs" />
     <Compile Include="Assets\Scripts\MovimientoPorEstado.cs" />
     <Compile Include="Assets\Scripts\ARScaleOnDetect.cs" />
-    <Compile Include="Assets\Materials_Textures\02.Materiales cap10\Sprites_Animator\SpritesInteractivos\MeteorMove.cs" />
     <Compile Include="Assets\Scripts\EventoMovimiento.cs" />
+    <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion2\AreaCaidaValidator.cs" />
     <Compile Include="Assets\Scripts\LimitarEnHoja.cs" />
     <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion2\MovimientoSimple.cs" />
     <Compile Include="Assets\Scripts\Scripts_Sprites\Bola_Fuego.cs" />
     <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion2\CambioEstatua.cs" />
-    <Compile Include="Assets\Materials_Textures\02.Materiales cap10\Sprites_Animator\SpritesInteractivos\AreaCaidaValidator.cs" />
+    <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion2\MoverSpawnPoint.cs" />
     <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion3\FuegoDelay.cs" />
     <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion2\EventosHijo.cs" />
     <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion3\NinoEventos.cs" />
@@ -80,9 +80,11 @@
     <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion3\ControlSimple.cs" />
     <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion2\FuegoRandomOffset.cs" />
     <Compile Include="Assets\Scripts\Scripts_Sprites\Meteoro.cs" />
-    <Compile Include="Assets\Materials_Textures\02.Materiales cap10\Sprites_Animator\SpritesInteractivos\MoverSpawnPoint.cs" />
+    <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion2\DestruirObjeto.cs" />
     <Compile Include="Assets\Scripts\ImageTargetVisibility.cs" />
+    <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion2\MeteorMove.cs" />
     <Compile Include="Assets\Scripts\ElementsControl.cs" />
+    <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion2\MeteorSpawner.cs" />
     <Compile Include="Assets\Integracion_Tomo1\Escenarios\Escenarios FBX\NubesEscenario1\InstanciaLluvia.cs" />
     <Compile Include="Assets\Scripts\ShowTargetOrigin.cs" />
     <Compile Include="Assets\Integracion_Tomo1\Escenarios\Escenarios FBX\NubesEscenario1\MoveGotaAgua.cs" />
@@ -90,23 +92,20 @@
     <Compile Include="Assets\Scripts\Scripts_Sprites\Intanciador_Bola_Fuego.cs" />
     <Compile Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion3\PlanetaController.cs" />
     <Compile Include="Assets\Integracion_Tomo1\Escenarios\Escenarios FBX\NubesEscenario1\ControlClima.cs" />
-    <Compile Include="Assets\Materials_Textures\02.Materiales cap10\Sprites_Animator\SpritesInteractivos\DestruirObjeto.cs" />
     <Compile Include="Assets\Scripts\LimitCameraDistance.cs" />
-    <Compile Include="Assets\Materials_Textures\02.Materiales cap10\Sprites_Animator\SpritesInteractivos\MeteorSpawner.cs" />
     <Compile Include="Assets\Scripts\Scripts_Sprites\Spawner_Meteoros.cs" />
     <Compile Include="Assets\Scripts\Scripts_Sprites\Destruir_Meteoro.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Materials_Textures\Materiales URP_Lit Cartoon\Codigo_Shaders\unlitToom.shader" />
+    <None Include="Assets\Proyecto_Biblia\3_Scripts\5_Shaders\MaterialBaseCartoon\unlitToom.shader" />
     <None Include="Assets\Samples\Splines\2.8.3\Spline Examples (requires Shader Graph package)\UXML\PaintUI.uxml" />
     <None Include="Assets\Samples\Splines\2.8.3\Spline Examples (requires Shader Graph package)\Shader\InterpolateSpline.compute" />
     <None Include="Assets\Settings\NewUnlitUniversalRenderPipelineShader.shader" />
-    <None Include="Assets\Materials_Textures\Materiales URP_Lit Cartoon\Codigo_Shaders\UnlitTarasparente.shader" />
+    <None Include="Assets\Proyecto_Biblia\3_Scripts\5_Shaders\MaterialBaseCartoon\UnlitTarasparente.shader" />
     <None Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion2\Material_Cambio.shader" />
-    <None Include="Assets\Materials_Textures\Materiales URP_Lit Cartoon\Codigo_Shaders\UnlitToom_doblecara.shader" />
-    <None Include="Assets\Materials_Textures\Materiales URP_Lit Cartoon\Codigo_Shaders\NewUnlitUniversalRenderPipelineShader.shader" />
-    <None Include="Assets\Materials_Textures\Materiales URP_Lit Cartoon\Codigo_Shaders\Agua.shader" />
-    <None Include="Assets\Materials_Textures\Materiales URP_Lit Cartoon\Codigo_Shaders\CustomStylizedFire_Light.shader" />
+    <None Include="Assets\Proyecto_Biblia\3_Scripts\5_Shaders\MaterialBaseCartoon\UnlitToom_doblecara.shader" />
+    <None Include="Assets\Proyecto_Biblia\3_Scripts\5_Shaders\MaterialBaseCartoon\NewUnlitUniversalRenderPipelineShader.shader" />
+    <None Include="Assets\Proyecto_Biblia\3_Scripts\5_Shaders\MaterialBaseCartoon\CustomStylizedFire_Light.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

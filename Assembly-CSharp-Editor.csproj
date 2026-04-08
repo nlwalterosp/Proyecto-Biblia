@@ -20,7 +20,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <NoWarn>0169;USG0001</NoWarn>
-    <DefineConstants>UNITY_6000_3_2;UNITY_6000_3;UNITY_6000;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2023_1_OR_NEWER;UNITY_2023_2_OR_NEWER;UNITY_2023_3_OR_NEWER;UNITY_6000_0_OR_NEWER;UNITY_6000_1_OR_NEWER;UNITY_6000_2_OR_NEWER;UNITY_6000_3_OR_NEWER;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_AUDIO_SCRIPTABLE_PIPELINE;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_UNITY_CONSENT;ENABLE_UNITY_CLOUD_IDENTIFIERS;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_MARSHALLING_TESTS;ENABLE_VIDEO;ENABLE_NAVIGATION_OFFMESHLINK_TO_NAVMESHLINK;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;ENABLE_ACCESSIBILITY_SCREEN_READER;ENABLE_ACCESSIBILITY_SETTINGS;TEXTCORE_1_0_OR_NEWER;EDITOR_ONLY_NAVMESH_BUILDER_DEPRECATED;PLATFORM_ANDROID;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_CLOUD_SERVICES_ENGINE_DIAGNOSTICS;ENABLE_FIREBASE_IDENTIFIERS;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;ENABLE_ETC_COMPRESSION;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;PLATFORM_EXTENDS_VULKAN_PIPELINE_CACHE;PLATFORM_SUPPORTS_SPLIT_GRAPHICS_JOBS;PLATFORM_HAS_ADDITIONAL_API_CHECKS;PLATFORM_HAS_GRAPHICS_JOBS_SUPPORT_CHECK_OVERRIDE;PLATFORM_IMPLEMENTS_INSIGHTS_ANR;PLATFORM_SUPPORTS_INSIGHTS_DEVICE_INFO;ENABLE_ANDROID_ADVERTISING_IDS;PLATFORM_HAS_BUGGY_MSAA_RESOLVE;ENABLE_ANDROID_APP_SET_ID;ENABLE_INSIGHTS_PLATFORM_SPECIFIC_RESOURCES;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_4_6;NET_UNITY_4_8;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER;TEXTCORE_FONT_ENGINE_1_6_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_EDITOR_ONLY_COMPILATION</DefineConstants>
+    <DefineConstants>UNITY_6000_3_2;UNITY_6000_3;UNITY_6000;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2023_1_OR_NEWER;UNITY_2023_2_OR_NEWER;UNITY_2023_3_OR_NEWER;UNITY_6000_0_OR_NEWER;UNITY_6000_1_OR_NEWER;UNITY_6000_2_OR_NEWER;UNITY_6000_3_OR_NEWER;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_AUDIO_SCRIPTABLE_PIPELINE;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_UNITY_CONSENT;ENABLE_UNITY_CLOUD_IDENTIFIERS;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_MARSHALLING_TESTS;ENABLE_VIDEO;ENABLE_NAVIGATION_OFFMESHLINK_TO_NAVMESHLINK;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;ENABLE_ACCESSIBILITY_SCREEN_READER;ENABLE_ACCESSIBILITY_SETTINGS;TEXTCORE_1_0_OR_NEWER;EDITOR_ONLY_NAVMESH_BUILDER_DEPRECATED;PLATFORM_ANDROID;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_CLOUD_SERVICES_ENGINE_DIAGNOSTICS;ENABLE_FIREBASE_IDENTIFIERS;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;ENABLE_ETC_COMPRESSION;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;PLATFORM_EXTENDS_VULKAN_PIPELINE_CACHE;PLATFORM_SUPPORTS_SPLIT_GRAPHICS_JOBS;PLATFORM_HAS_ADDITIONAL_API_CHECKS;PLATFORM_HAS_GRAPHICS_JOBS_SUPPORT_CHECK_OVERRIDE;PLATFORM_IMPLEMENTS_INSIGHTS_ANR;PLATFORM_SUPPORTS_INSIGHTS_DEVICE_INFO;ENABLE_ANDROID_ADVERTISING_IDS;PLATFORM_HAS_BUGGY_MSAA_RESOLVE;ENABLE_ANDROID_APP_SET_ID;ENABLE_INSIGHTS_PLATFORM_SPECIFIC_RESOURCES;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_4_6;NET_UNITY_4_8;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER;TEXTCORE_FONT_ENGINE_1_6_OR_NEWER;DREAMTECK_SPLINES;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_EDITOR_ONLY_COMPILATION</DefineConstants>
     <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -61,7 +61,7 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.3.2f1\Editor\Data\Tools\BuildPipeline\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
+    <Compile Include="Assets\Editor\BuscarAssets.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Library\PackageCache\com.unity.collab-proxy@3351acaba9c9\Lib\Editor\Localization\commontypes.ko.txt" />
@@ -769,6 +769,10 @@
       <HintPath>Library\PackageCache\com.unity.visualscripting@191c0d7e3b69\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@4dfd81071c64\Runtime\Newtonsoft.Json.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
       <HintPath>Library\PackageCache\com.unity.visualscripting@191c0d7e3b69\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
       <Private>False</Private>
@@ -1307,33 +1311,37 @@
       <Project>{966348E5-E6A7-6300-3D19-112F23DE3F9F}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
-    <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{EEEF1F5F-2E9A-3986-313C-43710FB9513C}</Project>
-      <Name>UnityEditor.TestRunner</Name>
-    </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
       <Project>{7A0908F6-C56E-72AC-1C06-90FD605F9D03}</Project>
       <Name>UnityEngine.TestRunner</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEditor.TestRunner.csproj">
+      <Project>{EEEF1F5F-2E9A-3986-313C-43710FB9513C}</Project>
+      <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.ARAnalytics.Editor.csproj">
       <Project>{C9671E8F-72F2-A152-FB57-7DE4EBEE5C66}</Project>
       <Name>Unity.XR.ARAnalytics.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Core.Editor.csproj">
-      <Project>{B0F5A59A-9D94-FEC8-1231-0820242D96D2}</Project>
-      <Name>Unity.RenderPipelines.Core.Editor</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.XR.CoreUtils.Editor.csproj">
       <Project>{9691EB62-C0CD-711E-58A8-A6A3CE8848CD}</Project>
       <Name>Unity.XR.CoreUtils.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.2D.Sprite.Editor.csproj">
+      <Project>{E664CD77-BA83-80CB-40EE-8351926BC241}</Project>
+      <Name>Unity.2D.Sprite.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Multiplayer.Tools.NetStatsReporting.csproj">
+      <Project>{F9A7035F-8E3D-FAE7-07C5-B704D413E0AE}</Project>
+      <Name>Unity.Multiplayer.Tools.NetStatsReporting</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.TextMeshPro.csproj">
       <Project>{4B57F3B6-85F8-9466-4F3A-3D0450F94CB5}</Project>
       <Name>Unity.TextMeshPro</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.XR.Management.csproj">
-      <Project>{44C1FC3D-03F1-35C1-5A80-5197A55B9797}</Project>
-      <Name>Unity.XR.Management</Name>
+    <ProjectReference Include="Unity.Multiplayer.Tools.MetricTestData.csproj">
+      <Project>{5AFBB669-E949-079A-AB71-4DA5C591C323}</Project>
+      <Name>Unity.Multiplayer.Tools.MetricTestData</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.csproj">
       <Project>{02F92568-2295-76EB-2064-25A2D3864113}</Project>
@@ -1347,10 +1355,6 @@
       <Project>{334EAE26-6EA9-39FF-DF60-FA202BDFE313}</Project>
       <Name>Unity.Rendering.LightTransport.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.AI.Navigation.csproj">
-      <Project>{B0695BC2-2D98-02ED-E406-FD135572909C}</Project>
-      <Name>Unity.AI.Navigation</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Core.ShaderLibrary.csproj">
       <Project>{78A87E7B-A5ED-8792-363A-A1BD7F023AB1}</Project>
       <Name>Unity.RenderPipelines.Core.ShaderLibrary</Name>
@@ -1363,77 +1367,57 @@
       <Project>{6AD7E3BF-0D1F-FED3-6B19-CF2AAF4DECDE}</Project>
       <Name>Unity.VisualScripting.SettingsProvider.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Universal.2D.Editor.Overrides.csproj">
-      <Project>{867F0BC4-56D8-C10D-4610-28D9F6288A82}</Project>
-      <Name>Unity.RenderPipelines.Universal.2D.Editor.Overrides</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Universal.Editor.csproj">
-      <Project>{3DB18B84-38DD-03FB-F401-E57B6AE6D869}</Project>
-      <Name>Unity.RenderPipelines.Universal.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Timeline.csproj">
-      <Project>{26BD2B4E-1F57-F92E-3DED-787EA50802D4}</Project>
-      <Name>Unity.Timeline</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.AI.Navigation.Editor.csproj">
-      <Project>{95F57552-95A7-B7BE-9F13-8794177FF3F2}</Project>
-      <Name>Unity.AI.Navigation.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.EditorCoroutines.Editor.csproj">
-      <Project>{8B805014-2EEE-BFEF-4DE4-743045204025}</Project>
-      <Name>Unity.EditorCoroutines.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.AI.Navigation.Updater.csproj">
-      <Project>{D7B430A3-9C01-6B74-349B-01C2611948BC}</Project>
-      <Name>Unity.AI.Navigation.Updater</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.Shared.csproj">
-      <Project>{2905798A-FF7F-B679-5A51-0ED20717FD45}</Project>
-      <Name>Unity.RenderPipelines.Core.Runtime.Shared</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.XR.ARKit.FaceTracking.csproj">
-      <Project>{5F0EE385-40D9-10E5-CD42-B3D2E516D746}</Project>
-      <Name>Unity.XR.ARKit.FaceTracking</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Universal.2D.Runtime.csproj">
-      <Project>{5924A72D-645B-A088-364F-29E44C691C5D}</Project>
-      <Name>Unity.RenderPipelines.Universal.2D.Runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.VisualScripting.Shared.Editor.csproj">
-      <Project>{3CD00A7E-2C6D-908B-2E8A-C2A42C3EF8CC}</Project>
-      <Name>Unity.VisualScripting.Shared.Editor</Name>
+    <ProjectReference Include="Unity.Splines.Editor.csproj">
+      <Project>{28932266-FA2D-9127-76EB-63BF60BEB817}</Project>
+      <Name>Unity.Splines.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PPv2URPConverters.csproj">
       <Project>{BFD67EC5-2891-E0C5-101F-A6D8E3415CE1}</Project>
       <Name>PPv2URPConverters</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.Searcher.Editor.csproj">
-      <Project>{7D15322A-9660-F87C-9DDF-0FC3215235DE}</Project>
-      <Name>Unity.Searcher.Editor</Name>
+    <ProjectReference Include="Unity.AI.Navigation.Updater.csproj">
+      <Project>{D7B430A3-9C01-6B74-349B-01C2611948BC}</Project>
+      <Name>Unity.AI.Navigation.Updater</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.PlasticSCM.Editor.csproj">
-      <Project>{7E8644B2-6E80-FA20-9BDA-A896094FDBE0}</Project>
-      <Name>Unity.PlasticSCM.Editor</Name>
+    <ProjectReference Include="Unity.AI.Navigation.Editor.csproj">
+      <Project>{95F57552-95A7-B7BE-9F13-8794177FF3F2}</Project>
+      <Name>Unity.AI.Navigation.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.XR.CoreUtils.csproj">
-      <Project>{C9EECAA0-26CD-7658-B921-80B707CD7094}</Project>
-      <Name>Unity.XR.CoreUtils</Name>
+    <ProjectReference Include="Unity.Multiplayer.Tools.NetVis.Configuration.csproj">
+      <Project>{DFE2399E-C586-C124-4ED2-5165A58F078A}</Project>
+      <Name>Unity.Multiplayer.Tools.NetVis.Configuration</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.Burst.Editor.csproj">
-      <Project>{8E0420A1-4231-4D17-DCF9-4EF2A09C1767}</Project>
-      <Name>Unity.Burst.Editor</Name>
+    <ProjectReference Include="Unity.EditorCoroutines.Editor.csproj">
+      <Project>{8B805014-2EEE-BFEF-4DE4-743045204025}</Project>
+      <Name>Unity.EditorCoroutines.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Dreamteck.Utilities.csproj">
+      <Project>{2972DADE-9C8F-BC46-2E64-3284D8FC9B8B}</Project>
+      <Name>Dreamteck.Utilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.Shared.csproj">
+      <Project>{2905798A-FF7F-B679-5A51-0ED20717FD45}</Project>
+      <Name>Unity.RenderPipelines.Core.Runtime.Shared</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Multiplayer.Tools.MetricTypes.csproj">
+      <Project>{7CB3A3D6-F3C6-88DF-63EF-02D05D4CCDD0}</Project>
+      <Name>Unity.Multiplayer.Tools.MetricTypes</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.2D.Runtime.csproj">
+      <Project>{5924A72D-645B-A088-364F-29E44C691C5D}</Project>
+      <Name>Unity.RenderPipelines.Universal.2D.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.ARFoundation.VisualScripting.csproj">
       <Project>{50BCF85F-D32E-FE44-CBAE-BCE8259D9A14}</Project>
       <Name>Unity.XR.ARFoundation.VisualScripting</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.VisualScripting.Core.csproj">
-      <Project>{672C6BD6-D23F-D074-D684-7CA2DF9943D9}</Project>
-      <Name>Unity.VisualScripting.Core</Name>
+    <ProjectReference Include="Dreamteck.Utilities.Editor.csproj">
+      <Project>{EC63812A-94E3-C101-6CE6-769D7A089A91}</Project>
+      <Name>Dreamteck.Utilities.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.Mathematics.Editor.csproj">
-      <Project>{FC9A59F6-E430-DF7C-32A9-7F2CB29E3B40}</Project>
-      <Name>Unity.Mathematics.Editor</Name>
+    <ProjectReference Include="Unity.Multiplayer.Tools.NetStatsMonitor.Configuration.csproj">
+      <Project>{62D6488D-9109-3DAC-CF5D-A7EB5353237E}</Project>
+      <Name>Unity.Multiplayer.Tools.NetStatsMonitor.Configuration</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.ARFoundation.Editor.csproj">
       <Project>{C48AEE0D-BECF-E2BC-63D1-862012ED1C6A}</Project>
@@ -1447,10 +1431,6 @@
       <Project>{EB96886B-DF81-24FD-A5B5-817362D6C73E}</Project>
       <Name>UnityEditor.SpatialTracking</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.XR.ARFoundation.csproj">
-      <Project>{AECF861B-133A-E855-8B98-E6AD0FD9707B}</Project>
-      <Name>Unity.XR.ARFoundation</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.XR.ARFoundation.InternalUtils.Editor.csproj">
       <Project>{4C74F5CE-F1C4-B964-F062-1FC9DECD8BD4}</Project>
       <Name>Unity.XR.ARFoundation.InternalUtils.Editor</Name>
@@ -1458,10 +1438,6 @@
     <ProjectReference Include="Unity.XR.OpenXR.csproj">
       <Project>{51283CBA-B62E-D907-88D7-A61C62A1BC25}</Project>
       <Name>Unity.XR.OpenXR</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.csproj">
-      <Project>{92210C57-3B3C-C4BC-4123-33C2EC304A94}</Project>
-      <Name>Unity.XR.OpenXR.Features.RuntimeDebugger.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Analytics.Editor.csproj">
       <Project>{8BA1D54D-D835-2F3F-DE14-37824ABA7A05}</Project>
@@ -1479,6 +1455,10 @@
       <Project>{D97D489C-C986-03CC-C26B-F42ACB3EE188}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Analytics.Hooks.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj">
+      <Project>{622190CD-93BE-697E-F140-A3C209DF49CA}</Project>
+      <Name>Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Flow.csproj">
       <Project>{1403326B-A7A3-CECA-ACD6-A3454F16321D}</Project>
       <Name>Unity.VisualScripting.Flow</Name>
@@ -1486,22 +1466,6 @@
     <ProjectReference Include="Unity.TextMeshPro.Editor.csproj">
       <Project>{113A54D2-61F3-D57A-0666-138DEFFD8007}</Project>
       <Name>Unity.TextMeshPro.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.XR.Simulation.Editor.csproj">
-      <Project>{48AB8025-7A41-84CE-28C1-D7C2EAD0DE27}</Project>
-      <Name>Unity.XR.Simulation.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj">
-      <Project>{622190CD-93BE-697E-F140-A3C209DF49CA}</Project>
-      <Name>Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.csproj">
-      <Project>{B6F1F712-E8A3-A1B1-8D93-8ADB0B27EA8A}</Project>
-      <Name>Unity.RenderPipelines.Core.Runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.VisualScripting.Flow.Editor.csproj">
-      <Project>{7107A7FB-084F-D7C9-D5D6-D9DDF6EF2466}</Project>
-      <Name>Unity.VisualScripting.Flow.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.XR.LegacyInputHelpers.csproj">
       <Project>{8CEFAEF3-4397-E3F5-F64B-9E61A316217C}</Project>
@@ -1527,21 +1491,213 @@
       <Project>{ED864E2F-D5EF-98B4-034B-34627AEC0E93}</Project>
       <Name>UnityEditor.XR.LegacyInputHelpers</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.Collections.csproj">
-      <Project>{FA724966-87DD-21D2-B722-312E45528FD7}</Project>
-      <Name>Unity.Collections</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.InputSystem.ForUI.csproj">
       <Project>{782AEBCA-CF10-9B40-FD73-B70B906D5B6C}</Project>
       <Name>Unity.InputSystem.ForUI</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.XR.OpenXR.Features.OculusQuestSupport.csproj">
-      <Project>{42E90F5A-40C2-8570-756E-15ED7DB83448}</Project>
-      <Name>Unity.XR.OpenXR.Features.OculusQuestSupport</Name>
+    <ProjectReference Include="Unity.Profiling.Core.csproj">
+      <Project>{432530ED-DBBF-C6C5-3F45-03393B5F7F88}</Project>
+      <Name>Unity.Profiling.Core</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.GPUDriven.Runtime.csproj">
       <Project>{505925A4-1B61-73EB-0518-F1F4A9517884}</Project>
       <Name>Unity.RenderPipelines.GPUDriven.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.State.Editor.csproj">
+      <Project>{D27FAB5E-555F-C762-C704-251B066B2F21}</Project>
+      <Name>Unity.VisualScripting.State.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.Shaders.csproj">
+      <Project>{1CD6939D-66D6-9A5A-E22B-B725E5F9F4BA}</Project>
+      <Name>Unity.RenderPipelines.Universal.Shaders</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Editor.csproj">
+      <Project>{E96A1106-A3DD-25D4-62E5-9C2BAA79AC14}</Project>
+      <Name>Unity.XR.Interaction.Toolkit.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.UI.csproj">
+      <Project>{AF94A052-95EE-0ACF-0AE0-F2AFFB6A77C3}</Project>
+      <Name>UnityEngine.UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="Dreamteck.Splines.csproj">
+      <Project>{CA222D80-05CD-3B41-24F9-7F9669BC0446}</Project>
+      <Name>Dreamteck.Splines</Name>
+    </ProjectReference>
+    <ProjectReference Include="com.unity.multiplayer.tools.window.csproj">
+      <Project>{FBC545F3-C6B7-98CE-EB51-249907B5BCBE}</Project>
+      <Name>com.unity.multiplayer.tools.window</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.Runtime.csproj">
+      <Project>{85C402D1-C708-B2B3-5055-D01B6E71C4D6}</Project>
+      <Name>Unity.RenderPipelines.Universal.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.OpenXR.Features.ConformanceAutomation.csproj">
+      <Project>{9B4633CB-86F4-02F4-06FC-616BA3348646}</Project>
+      <Name>Unity.XR.OpenXR.Features.ConformanceAutomation</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.Config.Runtime.csproj">
+      <Project>{C7436CE5-0529-E4D8-E7AB-BFC36E95C275}</Project>
+      <Name>Unity.RenderPipelines.Universal.Config.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.Simulation.csproj">
+      <Project>{FEC19D54-3448-54B9-1480-D1C01A38036A}</Project>
+      <Name>Unity.XR.Simulation</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Multiplayer.Tools.Common.csproj">
+      <Project>{39F14F60-E9A5-A475-71D6-C91A49ECB459}</Project>
+      <Name>Unity.Multiplayer.Tools.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.ARCore.csproj">
+      <Project>{3E7E297B-84A6-6693-6B17-4F90F61F891E}</Project>
+      <Name>Unity.XR.ARCore</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.2D.Sprite.AIIntegration.Editor.csproj">
+      <Project>{07DFD092-2091-90F4-1AD1-A53292CED54E}</Project>
+      <Name>Unity.2D.Sprite.AIIntegration.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Core.Editor.Shared.csproj">
+      <Project>{AEE41A9E-5638-1658-90E8-BB4C701E0B2C}</Project>
+      <Name>Unity.RenderPipelines.Core.Editor.Shared</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.InputSystem.csproj">
+      <Project>{D6328D59-65C0-DB46-0E77-06C400239776}</Project>
+      <Name>Unity.InputSystem</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Splines.csproj">
+      <Project>{94DFC12D-5738-5CA1-2162-5CF2A7653894}</Project>
+      <Name>Unity.Splines</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Multiplayer.Tools.MetricEvents.csproj">
+      <Project>{50028B54-DF87-603F-7A16-F4648B478842}</Project>
+      <Name>Unity.Multiplayer.Tools.MetricEvents</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Core.Editor.csproj">
+      <Project>{B0F5A59A-9D94-FEC8-1231-0820242D96D2}</Project>
+      <Name>Unity.RenderPipelines.Core.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.Management.csproj">
+      <Project>{44C1FC3D-03F1-35C1-5A80-5197A55B9797}</Project>
+      <Name>Unity.XR.Management</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Multiplayer.Tools.NetworkSolutionInterface.csproj">
+      <Project>{1F3DFC7E-7FED-7A32-A297-70D0102BE657}</Project>
+      <Name>Unity.Multiplayer.Tools.NetworkSolutionInterface</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Multiplayer.Tools.NetStats.csproj">
+      <Project>{150B4348-11CF-B8B7-ABFB-E19BE33FD9B5}</Project>
+      <Name>Unity.Multiplayer.Tools.NetStats</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AI.Navigation.csproj">
+      <Project>{B0695BC2-2D98-02ED-E406-FD135572909C}</Project>
+      <Name>Unity.AI.Navigation</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Splines.Examples.csproj">
+      <Project>{A99A5918-531B-CA32-E083-B19C86076E66}</Project>
+      <Name>Unity.Splines.Examples</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Multiplayer.Tools.DependencyInjection.csproj">
+      <Project>{40CA540A-88BB-6B67-2D7F-DCBA26FBAD97}</Project>
+      <Name>Unity.Multiplayer.Tools.DependencyInjection</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.2D.Editor.Overrides.csproj">
+      <Project>{867F0BC4-56D8-C10D-4610-28D9F6288A82}</Project>
+      <Name>Unity.RenderPipelines.Universal.2D.Editor.Overrides</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.Editor.csproj">
+      <Project>{3DB18B84-38DD-03FB-F401-E57B6AE6D869}</Project>
+      <Name>Unity.RenderPipelines.Universal.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Multiplayer.Tools.NetworkProfiler.Runtime.csproj">
+      <Project>{C72B5063-68BC-FA77-9450-7E6C838B5E29}</Project>
+      <Name>Unity.Multiplayer.Tools.NetworkProfiler.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Timeline.csproj">
+      <Project>{26BD2B4E-1F57-F92E-3DED-787EA50802D4}</Project>
+      <Name>Unity.Timeline</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.ARKit.FaceTracking.csproj">
+      <Project>{5F0EE385-40D9-10E5-CD42-B3D2E516D746}</Project>
+      <Name>Unity.XR.ARKit.FaceTracking</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Shared.Editor.csproj">
+      <Project>{3CD00A7E-2C6D-908B-2E8A-C2A42C3EF8CC}</Project>
+      <Name>Unity.VisualScripting.Shared.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Searcher.Editor.csproj">
+      <Project>{7D15322A-9660-F87C-9DDF-0FC3215235DE}</Project>
+      <Name>Unity.Searcher.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.PlasticSCM.Editor.csproj">
+      <Project>{7E8644B2-6E80-FA20-9BDA-A896094FDBE0}</Project>
+      <Name>Unity.PlasticSCM.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.CoreUtils.csproj">
+      <Project>{C9EECAA0-26CD-7658-B921-80B707CD7094}</Project>
+      <Name>Unity.XR.CoreUtils</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Burst.Editor.csproj">
+      <Project>{8E0420A1-4231-4D17-DCF9-4EF2A09C1767}</Project>
+      <Name>Unity.Burst.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Core.csproj">
+      <Project>{672C6BD6-D23F-D074-D684-7CA2DF9943D9}</Project>
+      <Name>Unity.VisualScripting.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Multiplayer.Tools.Adapters.csproj">
+      <Project>{1338E2E7-503A-6121-1A19-C1661372787C}</Project>
+      <Name>Unity.Multiplayer.Tools.Adapters</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Mathematics.Editor.csproj">
+      <Project>{FC9A59F6-E430-DF7C-32A9-7F2CB29E3B40}</Project>
+      <Name>Unity.Mathematics.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.ARFoundation.csproj">
+      <Project>{AECF861B-133A-E855-8B98-E6AD0FD9707B}</Project>
+      <Name>Unity.XR.ARFoundation</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Multiplayer.Tools.NetVis.Editor.Visualization.csproj">
+      <Project>{71C4D3A9-9F76-F832-B70D-B824F0A491A8}</Project>
+      <Name>Unity.Multiplayer.Tools.NetVis.Editor.Visualization</Name>
+    </ProjectReference>
+    <ProjectReference Include="Dreamteck.Splines.Editor.csproj">
+      <Project>{AE57F79A-A91D-B12D-CCF6-79D4CB113604}</Project>
+      <Name>Dreamteck.Splines.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.csproj">
+      <Project>{92210C57-3B3C-C4BC-4123-33C2EC304A94}</Project>
+      <Name>Unity.XR.OpenXR.Features.RuntimeDebugger.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Multiplayer.Tools.NetStatsMonitor.Editor.csproj">
+      <Project>{3A6BBE18-8B43-5421-21F9-6202CF8CE289}</Project>
+      <Name>Unity.Multiplayer.Tools.NetStatsMonitor.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Multiplayer.Tools.DependencyInjection.UIElements.csproj">
+      <Project>{F822C2D6-E8C4-60B2-5908-97213B0A00D4}</Project>
+      <Name>Unity.Multiplayer.Tools.DependencyInjection.UIElements</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.csproj">
+      <Project>{B6F1F712-E8A3-A1B1-8D93-8ADB0B27EA8A}</Project>
+      <Name>Unity.RenderPipelines.Core.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.Simulation.Editor.csproj">
+      <Project>{48AB8025-7A41-84CE-28C1-D7C2EAD0DE27}</Project>
+      <Name>Unity.XR.Simulation.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Flow.Editor.csproj">
+      <Project>{7107A7FB-084F-D7C9-D5D6-D9DDF6EF2466}</Project>
+      <Name>Unity.VisualScripting.Flow.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Multiplayer.Tools.Editor.csproj">
+      <Project>{D5D32E1A-DCC7-D158-8543-341B1E39F765}</Project>
+      <Name>Unity.Multiplayer.Tools.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Collections.csproj">
+      <Project>{FA724966-87DD-21D2-B722-312E45528FD7}</Project>
+      <Name>Unity.Collections</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.OpenXR.Features.OculusQuestSupport.csproj">
+      <Project>{42E90F5A-40C2-8570-756E-15ED7DB83448}</Project>
+      <Name>Unity.XR.OpenXR.Features.OculusQuestSupport</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.csproj">
       <Project>{C8DAC629-AD5F-026D-5649-3CBBB00A67F2}</Project>
@@ -1555,33 +1711,21 @@
       <Project>{A1E3A586-505C-F0FA-8CD1-F9C529AAAE43}</Project>
       <Name>Unity.Timeline.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.VisualScripting.State.Editor.csproj">
-      <Project>{D27FAB5E-555F-C762-C704-251B066B2F21}</Project>
-      <Name>Unity.VisualScripting.State.Editor</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.csproj">
       <Project>{4E2DD198-FD2D-7A2A-8C31-B5CAA53D6D7B}</Project>
       <Name>Unity.Mathematics</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Multiplayer.Tools.NetworkProfiler.Editor.csproj">
+      <Project>{F17F43CC-1902-0D0E-299F-D0A6A1E4D0B2}</Project>
+      <Name>Unity.Multiplayer.Tools.NetworkProfiler.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.ARKit.Editor.csproj">
       <Project>{C25235A0-E24F-7983-2125-68EB6F7C8488}</Project>
       <Name>Unity.XR.ARKit.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Universal.Shaders.csproj">
-      <Project>{1CD6939D-66D6-9A5A-E22B-B725E5F9F4BA}</Project>
-      <Name>Unity.RenderPipelines.Universal.Shaders</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Editor.csproj">
-      <Project>{E96A1106-A3DD-25D4-62E5-9C2BAA79AC14}</Project>
-      <Name>Unity.XR.Interaction.Toolkit.Editor</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Center.Common.csproj">
       <Project>{AE30367A-873A-016F-E613-7118DB15E31A}</Project>
       <Name>Unity.Multiplayer.Center.Common</Name>
-    </ProjectReference>
-    <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{AF94A052-95EE-0ACF-0AE0-F2AFFB6A77C3}</Project>
-      <Name>UnityEngine.UI</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Burst.csproj">
       <Project>{6EA03EA7-E552-523A-D84E-062473A03D27}</Project>
@@ -1599,14 +1743,6 @@
       <Project>{5286EDA9-CDDB-221C-AF29-C1EADF46D1B9}</Project>
       <Name>Unity.Multiplayer.Center.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Universal.Runtime.csproj">
-      <Project>{85C402D1-C708-B2B3-5055-D01B6E71C4D6}</Project>
-      <Name>Unity.RenderPipelines.Universal.Runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.XR.OpenXR.Features.ConformanceAutomation.csproj">
-      <Project>{9B4633CB-86F4-02F4-06FC-616BA3348646}</Project>
-      <Name>Unity.XR.OpenXR.Features.ConformanceAutomation</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.csproj">
       <Project>{E72187CC-D503-7544-15F8-0A86DA17539A}</Project>
       <Name>Unity.XR.Interaction.Toolkit</Name>
@@ -1618,14 +1754,6 @@
     <ProjectReference Include="Unity.VisualScripting.State.csproj">
       <Project>{D193A189-D5B2-4978-79C7-B199FB86E879}</Project>
       <Name>Unity.VisualScripting.State</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.XR.Simulation.csproj">
-      <Project>{FEC19D54-3448-54B9-1480-D1C01A38036A}</Project>
-      <Name>Unity.XR.Simulation</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Universal.Config.Runtime.csproj">
-      <Project>{C7436CE5-0529-E4D8-E7AB-BFC36E95C275}</Project>
-      <Name>Unity.RenderPipelines.Universal.Config.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipeline.Universal.ShaderLibrary.csproj">
       <Project>{4DCF405D-E1E7-5005-9A1F-05E82AA888F9}</Project>
@@ -1639,29 +1767,37 @@
       <Project>{FBC4B183-7AA4-56AB-271D-2740E00D0608}</Project>
       <Name>Unity.ShaderGraph.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.XR.ARCore.csproj">
-      <Project>{3E7E297B-84A6-6693-6B17-4F90F61F891E}</Project>
-      <Name>Unity.XR.ARCore</Name>
+    <ProjectReference Include="Unity.Multiplayer.Tools.NetStatsMonitor.Implementation.csproj">
+      <Project>{352A823A-8F0B-0CD5-E762-85B594E88CA8}</Project>
+      <Name>Unity.Multiplayer.Tools.NetStatsMonitor.Implementation</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Core.Editor.Shared.csproj">
-      <Project>{AEE41A9E-5638-1658-90E8-BB4C701E0B2C}</Project>
-      <Name>Unity.RenderPipelines.Core.Editor.Shared</Name>
+    <ProjectReference Include="Unity.Multiplayer.Tools.Initialization.csproj">
+      <Project>{9249E64F-2CCA-1CA9-0790-9B6165AAEE72}</Project>
+      <Name>Unity.Multiplayer.Tools.Initialization</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.InputSystem.csproj">
-      <Project>{D6328D59-65C0-DB46-0E77-06C400239776}</Project>
-      <Name>Unity.InputSystem</Name>
+    <ProjectReference Include="Unity.Multiplayer.Tools.NetStatsMonitor.Component.csproj">
+      <Project>{20642873-3AC9-C10A-770F-07126E8B87E8}</Project>
+      <Name>Unity.Multiplayer.Tools.NetStatsMonitor.Component</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.OpenXR.Editor.csproj">
       <Project>{221B3253-02F2-8B2C-ABE2-5338C112C731}</Project>
       <Name>Unity.XR.OpenXR.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.XR.ARSubsystems.csproj">
-      <Project>{FF095074-BB04-7D52-EA4B-86FA6FD1570D}</Project>
-      <Name>Unity.XR.ARSubsystems</Name>
+    <ProjectReference Include="Unity.Settings.Editor.csproj">
+      <Project>{1356F248-B1BB-E881-842A-C511259402F3}</Project>
+      <Name>Unity.Settings.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.ARCore.Editor.csproj">
       <Project>{27369E94-A03F-E629-773F-DC8A5405BE72}</Project>
       <Name>Unity.XR.ARCore.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.ARSubsystems.csproj">
+      <Project>{FF095074-BB04-7D52-EA4B-86FA6FD1570D}</Project>
+      <Name>Unity.XR.ARSubsystems</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Multiplayer.Tools.NetVis.Editor.UI.csproj">
+      <Project>{98F9B1C9-8286-EEFA-20CF-66D72D3FE0B5}</Project>
+      <Name>Unity.Multiplayer.Tools.NetVis.Editor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
       <Project>{90836463-AEF0-8C78-6B67-7FA311D6C2F8}</Project>
