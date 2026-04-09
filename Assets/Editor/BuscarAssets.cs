@@ -48,22 +48,34 @@ public class BuscarAssets
             if (AssetDatabase.IsValidFolder(asset))
                 continue;
 
-            // ❌ ignorar carpetas protegidas
-            if (asset.StartsWith("Assets/Proyecto_Biblia") ||
+            // ❌ SOLO trabajar dentro de Assets
+            if (!asset.StartsWith("Assets"))
+                continue;
+
+            // 🔴 PROTEGER CARPETAS IMPORTANTES
+            if (
+                asset.StartsWith("Assets/Proyecto_Biblia") ||
                 asset.StartsWith("Assets/Scenes") ||
-                asset.StartsWith("Assets/Scripts"))
+                asset.StartsWith("Assets/Editor") ||
+                asset.StartsWith("Assets/Settings") ||
+                asset.StartsWith("Assets/XR") ||
+                asset.StartsWith("Assets/XRI") ||
+                asset.StartsWith("Assets/Resources") ||
+                asset.Contains("/Plugins/") ||
+                asset.Contains("Dreamteck") ||
+                asset.Contains("ARCore") ||
+                asset.Contains("OpenXR") ||
+                asset.Contains("XR") ||
+                asset.EndsWith(".asmdef") ||
+                asset.EndsWith(".cs")
+            )
                 continue;
 
-            // ❌ ignorar plugins y asmdef
-            if (asset.Contains("/Plugins/") ||
-                asset.Contains("/Dreamteck/") ||
-                asset.Contains(".asmdef"))
-                continue;
-
-            // 🔥 SOLO no usados
-            if (!usados.Contains(asset) && asset.StartsWith("Assets"))
+            // 🟡 SOLO NO usados
+            if (!usados.Contains(asset))
             {
-                if (asset.StartsWith(carpetaDestino)) continue;
+                if (asset.StartsWith(carpetaDestino))
+                    continue;
 
                 string nombre = Path.GetFileName(asset);
                 string destino = carpetaDestino + "/" + nombre;
