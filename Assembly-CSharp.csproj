@@ -98,8 +98,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Proyecto_Biblia\3_Scripts\5_Shaders\MaterialBaseCartoon\unlitToom.shader" />
-    <None Include="Assets\Samples\Splines\2.8.3\Spline Examples (requires Shader Graph package)\UXML\PaintUI.uxml" />
-    <None Include="Assets\Samples\Splines\2.8.3\Spline Examples (requires Shader Graph package)\Shader\InterpolateSpline.compute" />
     <None Include="Assets\Settings\NewUnlitUniversalRenderPipelineShader.shader" />
     <None Include="Assets\Proyecto_Biblia\3_Scripts\5_Shaders\MaterialBaseCartoon\UnlitTarasparente.shader" />
     <None Include="Assets\Proyecto_Biblia\3_Scripts\2_Interacciones\SCRIT_Interaccion2\Material_Cambio.shader" />
