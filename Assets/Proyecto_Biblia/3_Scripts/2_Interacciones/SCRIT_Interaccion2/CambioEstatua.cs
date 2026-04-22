@@ -1,41 +1,51 @@
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
 
 public class CambioEstatua : MonoBehaviour
 {
     [SerializeField] Renderer meshRenderer;
-    [SerializeField] float duracion = 2f;
+    [SerializeField] float duracion = 0.5f;
 
-    Material mat;
+    [Header("Materiales")]
+    [SerializeField] Material materialNormal;
+    [SerializeField] Material materialEstatua;
+
+    Material matInstancia;
 
     void Start()
     {
-        mat = meshRenderer.material;
-        mat.SetFloat("_Blend", 0f); // empieza normal
+        // crear instancia del material (MUY IMPORTANTE)
+        matInstancia = new Material(materialNormal);
+        meshRenderer.material = matInstancia;
     }
 
     public void ActivarEstatua()
     {
-        StartCoroutine(Transformar());
+        StopAllCoroutines();
+        StartCoroutine(Transicion());
     }
 
-    IEnumerator Transformar()
+    IEnumerator Transicion()
     {
-        float tiempo = 0;
+        float t = 0f;
 
-        while (tiempo < duracion)
+        while (t < duracion)
         {
-            float t = tiempo / duracion;
+            float progreso = t / duracion;
 
-            float valor = Mathf.SmoothStep(0, 1, t);
+            // 🔥 interpolar color
+            Color colorA = materialNormal.color;
+            Color colorB = materialEstatua.color;
 
-            mat.SetFloat("_Blend", valor);
+            Color mezcla = Color.Lerp(colorA, colorB, progreso);
 
-            tiempo += Time.deltaTime;
+            matInstancia.color = mezcla;
 
+            t += Time.deltaTime;
             yield return null;
         }
 
-        mat.SetFloat("_Blend", 1f);
+        // asegurar material final
+        meshRenderer.material = materialEstatua;
     }
 }

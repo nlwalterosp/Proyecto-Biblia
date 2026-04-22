@@ -125,6 +125,18 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 089a3c24b5facad4eacd97eb3fe0bdf4, type: 2}
+    - target: {fileID: 2865606679192252282, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
+      propertyPath: duracion
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865606679192252282, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
+      propertyPath: materialNormal
+      value: 
+      objectReference: {fileID: 2100000, guid: 9c89623371dca7f42a1e62ba0366c5d2, type: 2}
+    - target: {fileID: 2865606679192252282, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
+      propertyPath: materialEstatua
+      value: 
+      objectReference: {fileID: 2100000, guid: 7752f31e067d5c345b591e005f6f583d, type: 2}
     - target: {fileID: 3050220219654383216, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
       propertyPath: m_Name
       value: Targets-Huida_Lot
@@ -141,6 +153,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PRF_Fuego_Stylized
       objectReference: {fileID: 0}
+    - target: {fileID: 5275877219505685064, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 9c89623371dca7f42a1e62ba0366c5d2, type: 2}
     - target: {fileID: 5452271643190885285, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -285,6 +301,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1512550804123550302}
     m_Modifications:
+    - target: {fileID: 2219929022200236945, guid: 766f7dc06c4ce1145b0b40ad1ecfbc4f, type: 3}
+      propertyPath: colorEden.b
+      value: 0.54901963
+      objectReference: {fileID: 0}
+    - target: {fileID: 2219929022200236945, guid: 766f7dc06c4ce1145b0b40ad1ecfbc4f, type: 3}
+      propertyPath: colorEden.g
+      value: 0.5137255
+      objectReference: {fileID: 0}
+    - target: {fileID: 2219929022200236945, guid: 766f7dc06c4ce1145b0b40ad1ecfbc4f, type: 3}
+      propertyPath: colorEden.r
+      value: 0.5058824
+      objectReference: {fileID: 0}
+    - target: {fileID: 2219929022200236945, guid: 766f7dc06c4ce1145b0b40ad1ecfbc4f, type: 3}
+      propertyPath: colorLluvia.b
+      value: 0.76862746
+      objectReference: {fileID: 0}
+    - target: {fileID: 2219929022200236945, guid: 766f7dc06c4ce1145b0b40ad1ecfbc4f, type: 3}
+      propertyPath: colorLluvia.g
+      value: 0.7058824
+      objectReference: {fileID: 0}
+    - target: {fileID: 2219929022200236945, guid: 766f7dc06c4ce1145b0b40ad1ecfbc4f, type: 3}
+      propertyPath: colorLluvia.r
+      value: 0.69411767
+      objectReference: {fileID: 0}
     - target: {fileID: 3753248858175275892, guid: 766f7dc06c4ce1145b0b40ad1ecfbc4f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.0154
