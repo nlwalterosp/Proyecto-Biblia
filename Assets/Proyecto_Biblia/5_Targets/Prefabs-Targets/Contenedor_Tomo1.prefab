@@ -189,7 +189,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: PRF_Humo_Stylized
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5371863160080067159, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
     m_RemovedGameObjects:
     - {fileID: 3536051244053380295, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
     - {fileID: 9113000374696830687, guid: ed797008d79b46e48ab00d2e6c3da1bf, type: 3}
