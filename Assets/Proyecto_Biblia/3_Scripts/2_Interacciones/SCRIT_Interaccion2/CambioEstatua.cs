@@ -48,4 +48,18 @@ public class CambioEstatua : MonoBehaviour
         // asegurar material final
         meshRenderer.material = materialEstatua;
     }
+
+    public void Resetear()
+    {
+        StopAllCoroutines();
+
+        if (meshRenderer == null) return;
+        if (materialNormal == null) return;
+
+        if (matInstancia == null)
+            matInstancia = new Material(materialNormal);
+
+        matInstancia.color = materialNormal.color;
+        meshRenderer.material = matInstancia;
+    }
 }

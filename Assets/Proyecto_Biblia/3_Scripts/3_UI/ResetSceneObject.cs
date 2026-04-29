@@ -16,13 +16,11 @@ public class ResetSceneObject : MonoBehaviour
 
     public void ResetObject()
     {
-        // 🔄 Reset del objeto principal
         transform.localPosition = initialPosition;
         transform.localRotation = initialRotation;
         transform.localScale = initialScale;
 
-        // 🔥 Reset de TODAS las animaciones (incluye hijos)
-        Animator[] animators = GetComponentsInChildren<Animator>();
+        Animator[] animators = GetComponentsInChildren<Animator>(true);
 
         foreach (Animator anim in animators)
         {
@@ -30,13 +28,19 @@ public class ResetSceneObject : MonoBehaviour
             anim.Update(0f);
         }
 
-        // 🔥 Reset de partículas (fuego, efectos)
-        ParticleSystem[] particles = GetComponentsInChildren<ParticleSystem>();
+        ParticleSystem[] particles = GetComponentsInChildren<ParticleSystem>(true);
 
         foreach (ParticleSystem ps in particles)
         {
             ps.Clear();
             ps.Play();
+        }
+
+        CambioEstatua[] cambios = GetComponentsInChildren<CambioEstatua>(true);
+
+        foreach (CambioEstatua c in cambios)
+        {
+            c.Resetear();
         }
     }
 }

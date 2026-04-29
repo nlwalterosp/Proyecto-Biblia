@@ -29,7 +29,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: hija2_correr
+  m_Name: ANI_Correr_Hija_Lot_2
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -69,7 +69,7 @@ AnimatorStateMachine:
     m_Position: {x: 60, y: 360, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 5493355545307550597}
-    m_Position: {x: 80, y: 440, z: 0}
+    m_Position: {x: 60, y: 430, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -185,7 +185,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Idle_Hija2_Ver2
+  m_Name: ANI_Idle2_Hija_Lot_2
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
